@@ -1,0 +1,1114 @@
+Human: 208638
+Elf: 158658
+Half-Elf: 94449
+Dwarf: 74178
+Dragonborn: 70958
+Tiefling: 69676
+Halfling: 49877
+Half-Orc: 44972
+Genasi: 39299
+Gnome: 36646
+Goliath: 35502
+Aasimar: 33859
+Aarakocra: 26345
+Tabaxi: 6752
+Tortle: 3957
+Firbolg: 2979
+Kenku: 2868
+Lizardfolk: 2374
+Goblin: 2283
+Yuan-ti Pureblood: 1801
+Bugbear: 1438
+Feral Tiefling: 1411
+Kobold (archived): 1355
+Triton: 1346
+Orc (archived): 1009
+Hobgoblin: 797
+Changeling (UA): 293
+Warforged: 284
+Warforged (UA): 280
+Changeling: 243
+Minotaur: 161
+Shifter (UA): 156
+Kobold: 140
+Centaur: 121
+Lineages: 111
+Shifter: 102
+Custom Lineage: 97
+Kalashtar (UA): 97
+Gith: 78
+Satyr: 73
+Orc: 71
+Mousefolk: 65
+Vampire: 60
+Awakened Undead: 59
+Kalashtar: 57
+Minotaur-UA: 57
+Loxodon: 54
+Fairy: 50
+Kitsune: 45
+Leonin: 43
+Simic Hybrid: 43
+Pixie: 39
+Vedalken: 38
+Eladrin: 38
+Warforged : 38
+Gnoll: 36
+Half-Dwarf: 34
+Harengon: 33
+Centaur-UA: 33
+Bearkin: 32
+Grung: 32
+Faun: 30
+Rarê Elf: 30
+Ratfolk: 29
+Merfolk: 29
+Bullywug: 26
+Succubus: 26
+Air Genasi: 26
+Dhampir: 26
+Megalosaurasapians: 25
+Catfolk: 25
+Doppelganger: 24
+Tentamouth: 24
+Shadar-kai: 23
+Nymph: 23
+Kor: 22
+Shadar-Kai: 21
+Kender: 21
+Half-Ogre: 20
+Dwelf: 20
+Hengeyokai: 19
+Yuan-ti: 18
+Lamia: 18
+Githzerai: 18
+Half-Dragon: 18
+Half-Dryad: 17
+Selkie: 17
+Lizardfolk- Alligator-kin Tribe: 17
+Shade: 17
+Fairy (Archived): 17
+Arachni: 17
+Astral Elf: 16
+Shardmind: 15
+Loxodon : 15
+Soulbound: 14
+Deva: 14
+Daywalker (Vampire Variant): 14
+Deep Gnome: 14
+Verdan: 13
+Dryad: 13
+Khenra: 13
+Nroji: 12
+Half-Troll: 12
+Michtim: 12
+Awakened Cat: 12
+Siren: 12
+Crimson Demon: 12
+Beevallan: 11
+Wight: 11
+Pseudodragon: 11
+Cat Folk: 11
+Ailthizar (Aasimar): 11
+Half-Goliath: 11
+Mul: 10
+Lizardfolk- Komodo Tribe: 10
+Orc of Eberron: 10
+Skeleton: 10
+Dromite: 10
+Thri-Kreen: 10
+Half-Drow: 9
+Reborn (Archived): 9
+Skurri: 9
+COPY_OF_Elf: 9
+Elf-Orc: 9
+Fey'ri: 9
+Nephilim: 9
+Water Genasi: 9
+Kiroth: 9
+Derro: 9
+Werewolf: 9
+Loxodon-UA: 9
+Mind Flayer: 9
+Devil: 8
+Lapine: 8
+Anubite: 8
+Sahuagin: 8
+Dullahan: 8
+Ashera: 8
+Ogre: 8
+Stone-Orc: 8
+Spriggan: 8
+Lightborn: 8
+Amazon: 8
+Sealed Dragon: 8
+Vanara: 8
+Lizardfolk- Velociraptor Tribe: 8
+Hamadryad: 8
+Earth Genasi: 8
+Imp: 8
+Chinu: 7
+Purple Dragonborn: 7
+Beastkin: 7
+Cecaelia: 7
+Badgerfolk: 7
+Fire Genasi: 7
+Jackalfolk: 7
+Naga: 7
+Awakened Flesh Golem: 7
+Nopon: 7
+Nord: 7
+Aquari: 7
+Dhampir (Archived): 7
+Prima Terra, Ascended: 7
+Khajahadan: 7
+Rama: 7
+Myconid: 7
+Rabbitfolk (Archived): 7
+Dwarf Genasi: 7
+Ravenite Dragonborn: 7
+Owlin: 7
+Drow: 7
+Krutika: 7
+Dire Elf: 7
+Half-Unicorn: 6
+Vygul: 6
+Medusa: 6
+Aven: 6
+Undead: 6
+Roegadyn: 6
+Lupine: 6
+Demonborn: 6
+Draconic Races (Archived): 6
+Mer: 6
+Wood Woad: 6
+Weretouched: 6
+Cambion: 6
+Lutire: 6
+Owlfolk: 6
+Dog: 6
+Prima Terra, Vozeri: 6
+Magic Cat: 6
+Giff: 6
+Wolfen: 5
+Ettin: 5
+Faden_Bugbear: 5
+Atlantic Peoples: 5
+Thylean Nymph: 5
+Wooloo: 5
+Supial: 5
+COPY_OF_Human: 5
+Revenant: 5
+Otterman: 5
+Abomination: 5
+Newly Minted Tiefling: 5
+Pandaren: 5
+Ogre (GT): 5
+Ula Merfolk : 5
+Dwarfling: 5
+Kobold (Improved): 5
+Malkin: 5
+Fey Vampire: 5
+Funglet: 5
+Troll: 5
+Charr: 5
+Voidborn: 5
+Yuan-Ti Pureblood: 5
+Awakened Dog: 5
+Amonkhet Minotaur: 5
+Thylean Medusa: 5
+Autumn Hamadryad: 5
+Gemstone Dragonborn: 5
+Mogogol: 5
+Dragonborn (Sphaeran Variant): 5
+COPY_OF_Minotaur: 5
+Lightless: 5
+Orc of Exandria: 5
+Half-Goblin: 5
+Dhampyr: 5
+Moon Elf: 5
+Sea Elf: 5
+Duergar: 5
+Aranthi (GnG): 5
+Owlfolk (Archived): 5
+Eteetif Vaekran: 5
+Plasmoid: 5
+Thri-kreen: 5
+Buffkin: 5
+Half-Tabaxi: 5
+Fae: 5
+Treefolk: 5
+tab: 5
+Draco-Elf: 5
+Gastrosapien: 5
+Wookalar: 5
+Gnorri: 4
+WhiteSpire - Dhampir: 4
+Ursine: 4
+Moüst: 4
+Hyverman: 4
+Human Vampire: 4
+Cat: 4
+Nelliadine: 4
+[Tariel] Eagra: 4
+HSR*: 4
+Human (World Walker Universe): 4
+Cyberborn: 4
+Half-Orc Aasimar: 4
+Piney: 4
+Revenant - Human Variant CoS Kampanjebase: 4
+WM Elf: 4
+Feykin: 4
+Arenea: 4
+Zendekar Vampire: 4
+Lionfolk: 4
+Dragonborn Goliath: 4
+Fierna Tiefling: 4
+Variant Human To Yuan-ti Pureblood: 4
+Sasquatch: 4
+Human Revenant: 4
+Ice Troll: 4
+Mushroam: 4
+Grippli: 4
+Gnome-Tiefling: 4
+Oni: 4
+Tanarukk: 4
+Verbeeg: 4
+Hobgoblin of the Feywild (Archived): 4
+Protector Aasimar: 4
+Annülian: 4
+Illithid : 4
+True Orc: 4
+Abyssal Cambion : 4
+Succubus/Incubus: 4
+Frog Folk: 4
+Tokay: 4
+Mothkin: 4
+Dragonborn II: 4
+Zora: 4
+Shin'en Kai: 4
+Half-Dragonborn: 4
+Moonfolk: 4
+Kobold Werewolf: 4
+Alakar: 4
+Nephilim (Aasimar-Tiefling): 4
+Dexterous Dragonborn: 4
+Winter Wolf: 4
+Halfling (World Walkers Universe): 4
+Enlightened Human: 4
+Homunculus: 4
+Shindarri Lieutenant: 4
+Triton (swamp): 4
+Dragon Knight: 4
+Tiefling - Zariel Variant: 4
+Viashino-UA: 4
+Orcling: 4
+Rabbitfolk: 4
+Minotaur of Midgard: 4
+Grim Angel (real version): 4
+Red Fox: 4
+Construct: 4
+Wild Dwarf: 4
+Prismatic Dragonborn: 4
+Einherjar Shade: 4
+Half-Orc Goliath: 4
+Goblin (Khron): 4
+Muridae: 4
+Magitech Droid: 4
+Fox Folk: 4
+Ajatar: 4
+Owl Folk: 4
+Desterran: 4
+Davi: 4
+Half-giant: 4
+Minotaur (Krynn): 4
+Chitine: 4
+Inaba: 4
+Wilden: 4
+Ghostblood: 4
+Brownie: 4
+Hadozee: 4
+Void Folk: 4
+Duhorov; Hill: 4
+Blood Angel: 4
+Half Giant: 4
+Wricklet: 4
+Human - Hoya: 4
+Draconic Angel: 4
+Lizardfolk- Chameleon Tribe: 4
+Quarter-Elf: 4
+Adamantine Dragonborn: 3
+MtG Elf Variant: 3
+LionFolk: 3
+Tiefling-Aasimar Hybrid: 3
+Spiritforged: 3
+Cursed Feline: 3
+Treant: 3
+Kalaxriel's First Brood: 3
+Draconid: 3
+Dragonkin: 3
+Half-vampire: 3
+True Minotaur: 3
+Forest Gnome: 3
+Ent: 3
+Warforged 2: 3
+Ackrylil: 3
+Sylvan Centaur: 3
+Real Panda: 3
+Sudalix: 3
+Stained Elf: 3
+Jaalibon: 3
+Zendikar Merfolk: 3
+Soulforged: 3
+Goliath Panda: 3
+Warforged (Subraces): 3
+Orcasion : 3
+Degmon: 3
+Bureese: 3
+Miqo'te: 3
+Tikikit: 3
+Veresio: 3
+Ralad: 3
+Half-Mer: 3
+Ghoul Folk: 3
+Oblex: 3
+human, Werewolf: 3
+Raftan: 3
+Fiendling: 3
+Quarter-Orc-half-plant: 3
+Dragon Half-Elf: 3
+Variant Warforged: 3
+Azlanti Pureblood: 3
+Amazonian: 3
+ILLITHID (renegade): 3
+Cnidarian: 3
+Goliath (Tyrileth): 3
+Ysoki: 3
+Treant : 3
+Half Orc - Half Tiefling v2: 3
+Human (Legacy): 3
+Revisitor: 3
+Mummy: 3
+Aroura (Ratfolk): 3
+Half-Orcish: 3
+Tiefling Abyssal Varient: 3
+Ethryne: 3
+Lutire  MK II: 3
+Half - Dryad: 3
+Quaggoth: 3
+Bloodkissed: 3
+Human*: 3
+Njörth: 3
+Enlightened One - Halfling: 3
+Kitsune (Slyvan Blessed Fox): 3
+Ladu'Acrum: 3
+Urskan: 3
+Lich: 3
+Orarukk: 3
+Nagaji: 3
+Maldrath: 3
+Clockwork Construct: 3
+Mothfolk: 3
+Olethrios: 3
+Winged Tiefling: 3
+Werefox: 3
+Caenara: 3
+Dworc: 3
+Goblin - Lorenzo: 3
+Green Slaad: 3
+G'orc: 3
+Lupin: 3
+Pixie : 3
+Shad: 3
+Zendikar Elf: 3
+Khulgani: 3
+Elc: 3
+Goblin (Aedin Setting): 3
+Planegea Human - Devon: 3
+Veissux: 3
+Angelic Phoenix: 3
+Zendikar Goblin: 3
+COPY_OF_Half-Orc: 3
+Silva: 3
+Serpentine Yuan-Ti: 3
+Bearkin : 3
+Tiefling (Azazel): 3
+Animated Armor: 3
+Ratling: 3
+Awakened Beast: 3
+Warforged (AX): 3
+WereBat: 3
+Woodsy Elf: 3
+Fairies: 3
+Warmage Dragonborn: 3
+RabbitFolk: 3
+Tiefling Variant: 3
+Bathynomian: 3
+Llamataur: 3
+Scarecrow: 3
+Elementalian: 3
+papillon: 3
+Real Life Human: 3
+Kari-Eten: 3
+Jemmora Human: 3
+Furry Lion: 3
+Voldur: 3
+COPY_OF_Aarakocra: 3
+Silm: 3
+Werewolf : 3
+Half-Elf-Orc: 3
+Frost Troll: 3
+Avali: 3
+Minotaur (UA): 3
+Black Orc: 3
+Cyborg: 3
+Twi'lek: 3
+Neko race: 3
+Wookie : 3
+DeathClaw: 3
+Sasember: 3
+Possessed Cat: 3
+Incubus/Succubus (Tiefling Variant) : 3
+Treeant: 3
+Mousefolk Large: 3
+Half-Oni/Half-Succubi: 3
+Fox-folk: 3
+Varient(Feat) Mousefolk: 3
+Kekeke: 3
+Thurmagaunt Tiefling: 3
+Sol'Vra: 3
+Tiefling (Balthazar): 3
+Uskad: 3
+Fae Hybrid: 3
+Truffling: 3
+Owlbear: 3
+Mauko: 3
+Awoken Rabbit: 3
+Magical beast: 3
+Puppicorn: 3
+Warforged Sentinel: 3
+Yivrri: 3
+Drakonian [HB]: 3
+Firekindle Ragebeast: 3
+Snake Folk: 3
+Ork: 3
+Forest Mousefolk: 3
+Dragonborn Legacy: 3
+Daegoling: 3
+Darfellan: 3
+Vanaras: 3
+Locathah: 3
+Dhamphir: 3
+Beastfolk: 3
+Mimic: 3
+Gallian: 3
+Kelethis : 3
+Warforge: 3
+Reincarnate: 3
+Griffin: 3
+Warforged (eberron5e.com): 3
+Dark (Drow): 3
+Blackscale (Lizardfolk Variant): 3
+Valheru: 3
+Asmodean Devil: 3
+Gnoll (Southland Heroes): 3
+Flora Colossus : 3
+Shadow Born: 3
+Wolfborn: 3
+Blood Elf: 3
+Redead: 3
+Time Ghost: 3
+Harefolk: 3
+Sea Monkey: 3
+Natureling: 3
+Wood Elf-Orc: 3
+Goliath (free feet variant): 3
+Gearforged: 3
+Людоящер: 3
+Time Lord: 3
+Mausu: 3
+Glowers: 3
+Persona (gem): 3
+Pelanan: 3
+Fleeban: 3
+Tortel: 3
+Hirm: 3
+Daevi: 3
+Anthropomorph: 3
+Surrogate: 3
+Fairy : 3
+Qunari: 3
+Half-Angel: 3
+Strix (Grimfrost Campaign): 2
+Tesumaki: 2
+Vales (Fallen Angels): 2
+Awakened Animal: 2
+Zuggtmoy's Spawn (Tiefling Subrace): 2
+Half Gnome, Half Orc: 2
+succubus: 2
+Half Elf Dragonborn: 2
+Rougarou: 2
+Bloodborn: 2
+Shattered Orc: 2
+Kobold Urd: 2
+Inkling: 2
+Attalwen: 2
+Desert Elf: 2
+Subrosian: 2
+Sheikah: 2
+Rattkin: 2
+Elfling: 2
+Fey Folk: 2
+Oina: 2
+Sylvari: 2
+Cathominem: 2
+Galapian: 2
+Elderspawn: 2
+Craislusian : 2
+Auricar: 2
+Vryloka: 2
+Clockwork: 2
+Murloc: 2
+Bonestruct: 2
+Tetra: 2
+Blackblood: 2
+Minotaut: 2
+Sharkfolk: 2
+Magi: 2
+Goblinoid Ogre: 2
+Giomorgo (Half-Vistani): 2
+ Sisslureelian: 2
+Skymin: 2
+COPY_OF_Eldritch Fiend - Succubus Variant: 2
+Frox: 2
+Yuan-ti (Halfling) Pureblood (HB): 2
+Erinyes: 2
+Lichkin: 2
+Genie: 2
+Darklains: 2
+Undead Elf: 2
+Dragonborn (Breath Weapon Modified): 2
+Jemmora Elf: 2
+Dragon: 2
+Plover Primal: 2
+Dragonborn of Ysterra: 2
+Bearfolk: 2
+Draxnor Orc: 2
+Atuin: 2
+Half Dwarf: 2
+Reader Catasect: 2
+Aasimar (Dragon Child): 2
+Deva (Zeitgeist): 2
+Tressym: 2
+Horne: 2
+Walrusfolk: 2
+Chinaman: 2
+Native American (Blackfoot): 2
+Midgard Kobold: 2
+COPY_OF_Aasimar: 2
+Keme: 2
+Mikoto: 2
+Symian: 2
+Grimfrost Warforged: 2
+Half-Aasimar, Half-Elf: 2
+Unicorn: 2
+Ulitharid: 2
+Faerie: 2
+Iceblood Tiefling: 2
+DL - Minotaur: 2
+Ugandan Knuckles: 2
+Kessiger: 2
+Khajit: 2
+(Retired) Deus: 2
+Turtle: 2
+Forged: 2
+Aeolan: 2
+Faery: 2
+Tabaxi-1: 2
+Feytouched Tiefling: 2
+Dalharil: 2
+Eggonion : 2
+Ifrit: 2
+Ailead: 2
+Ghost: 2
+Magma Genasi: 2
+Orc'Klar: 2
+Drow Elf: 2
+Lorrnath: 2
+Trollkind: 2
+Half breed: 2
+Goliath (NG): 2
+Squireelfolk: 2
+Human-Aasimar: 2
+Hungret: 2
+Tarutaru: 2
+Gothrik: 2
+Tiefling of the Sun: 2
+Cervitaur: 2
+Deft Elf: 2
+Yuan-Ti Malison: 2
+Pink Dragonborn: 2
+"Blessed by Light": 2
+Tiefling (HR): 2
+Teifkocra: 2
+Immortal : 2
+Pactborn: 2
+Aasimar (Volo's Guide to Monsters): 2
+Star Human: 2
+Slimefolk: 2
+Half-Giant: 2
+Dhampire: 2
+Fox: 2
+Half-Fey: 2
+Stonefolk : 2
+Lucario: 2
+Man: 2
+Golem: 2
+Demigod: 2
+Golyatih: 2
+Arachnoid: 2
+Valpen: 2
+Hyur: 2
+Sun-Hunter Orc: 2
+Yuan-Ti: 2
+Worgen: 2
+Faunus: 2
+Half-Oni: 2
+Fey Corgi: 2
+G'HaKaan: 2
+Free Gnoll: 2
+Kaldorei: 2
+Saiyan: 2
+Felic: 2
+Chaladon: 2
+Revenant (Human): 2
+Mantid: 2
+kalasharen: 2
+Imperial: 2
+Elf (Aanheim Variant): 2
+Nosferatu: 2
+Yuki-otoko: 1
+Tuzetae: 1
+Meerbat: 1
+Sciurian: 1
+Nephalem: 1
+Wight (Alheim): 1
+Dwarven Tiefling: 1
+Awakened fox: 1
+Delunian Mageforged: 1
+Catkin: 1
+Far-Realm-Touched Half-Elf: 1
+Aynerth Minotaur: 1
+Ursidae (Bearfolk): 1
+Børn af fortiden: 1
+Calamaris: 1
+Half Elf (variant): 1
+Yuan-ti Pureblood (revised): 1
+HUWYTE: 1
+ tabaxi: 1
+Ovgiin: 1
+Otterfolk: 1
+Infernal Half Elf (Fey’ri) - With Bladesinger Subclass Abilities: 1
+Fairy, Winged: 1
+Tobaxi: 1
+Wraith: 1
+Living Flesh Construct: 1
+Ashborn (AotG): 1
+Draconic angel: 1
+Virikan: 1
+Kakuta: 1
+Monolith: 1
+Mercury Dragonborn: 1
+Avatar: 1
+Half-elf/tiefling: 1
+Doppleganger: 1
+Chetova: 1
+Eberron Goblin: 1
+Orc-Changeling: 1
+Baketako: 1
+Tiefling, Cambion: 1
+Mantodea: 1
+Human Ancestry: 1
+Kuo-Toa: 1
+Anka: 1
+Shapeshifter: 1
+Half Orc Half Drow: 1
+Scarred Lands Elf: 1
+SkinWalker: 1
+Necrotempists: 1
+Bag of Holding: 1
+Nokken: 1
+Half-Medusa: 1
+Dobor Goliath: 1
+The dragon born: 1
+Lathari: 1
+Wyvern (Youngling): 1
+Utu - The Orphaned: 1
+Night Goblin: 1
+Troll (Alternian): 1
+Diaspora Human: 1
+Weasel: 1
+Tabaxi (CR): 1
+Orinthai: 1
+Lightfoot Half-Hin Race: 1
+Kettir: 1
+Deku Scrub: 1
+Chimera: 1
+Dragonborn (Revised): 1
+HSS - Brendan: 1
+Skallgin: 1
+Elapidae: 1
+Hill Dwarf (Reincarnated Half-Elf): 1
+Angel of Death: 1
+Rakasta: 1
+Half Fey: 1
+Goliant: 1
+[OneD&D] Human: 1
+Awakened Half-Dragon: 1
+Tiefling Half-Elf: 1
+Half-Orc/Genasi: 1
+Awakened Tree: 1
+Celestial Tiefling: 1
+Faun : 1
+Wearbear Goliath: 1
+Tiefling Feral: 1
+Tzyn: 1
+Firboliath: 1
+Nezumi: 1
+Sindar Elf: 1
+Blusian: 1
+Exile: 1
+Eberron Znir Pact Gnoll: 1
+Ape: 1
+Goblin (Ixalan): 1
+Selachian: 1
+Merfolk (Zendikar): 1
+Vernon: 1
+Shifter (Beasthide): 1
+Cerberus Shifter: 1
+Haunted Skull: 1
+Wild Kenku: 1
+Canid: 1
+Auld: 1
+Duhorov; Mountain : 1
+Tiefling with Fierna blood: 1
+Human (CR): 1
+Spellbound Alligator: 1
+Rabbit Folk: 1
+Númenórean: 1
+warforge: 1
+Irontouched: 1
+Typhon: 1
+Lycan: 1
+Arcanum: Human: 1
+Silanu triton: 1
+Half Drow/Half Aasimar: 1
+Slusset: 1
+Dreya: 1
+Midgard Gearforged: 1
+Breton: 1
+Bennett's Half-Orc: 1
+Midgard Bearfolk: 1
+Fox Folk Kitsune: 1
+Flora Colossus: 1
+Half-elf/half Passerean: 1
+Zenythri: 1
+Awakened White Tiger: 1
+Half-Elf  (Copy): 1
+Yuan Ti Pureblood: 1
+Variant Tiefling: 1
+War Forged: 1
+Wakahnka: 1
+Half-Orc Samurai: 1
+Ae'ren: 1
+Shadar Kai: 1
+Lizardfolk- Gila Monster Tribe: 1
+Thri-Kreen of Athas: 1
+Dragonborn Halfling: 1
+Half-Kitsune: 1
+Lizardfolk- Axolotl Tribe: 1
+Drow (Dark Elf): 1
+Aetheril: 1
+Iter Ligno: 1
+Shiftling: 1
+Tortle Mystic: 1
+Favoured of Setesh: 1
+Rakshasa: 1
+Plesiosaurus: 1
+Changeling : 1
+Jackalwere: 1
+Emier: 1
+Arboren: 1
+Dragonfolk: 1
+Jotun: 1
+yuanti malison: 1
+Half-giant : 1
+Oreinak: 1
+Axiom: 1
+Alu-fiend: 1
+Lemurian: 1
+Revenant Human: 1
+Bear: 1
+COPY_OF_Half-Elf: 1
+Gorgon: 1
+Elf Orc: 1
+Vedalken-UA: 1
+Angels: 1
+Sorrow May: 1
+Rose Mudborn: 1
+Human : 1
+Cat folk: 1
+DL: 1
+Gorilla: 1
+sibaro: 1
+Quorrl: 1
+Iksar: 1
+Hephet: 1
+Goliath based Chimera: 1
+Damphir: 1
+Void Elf: 1
+Dragondwarf: 1
+Tall: 1
+Vexeye: 1
+Arcforged: 1
+Tiefling Half-Orc: 1
+vampire: 1
+Ekurai: 1
+Feral Dragonborn: 1
+Orc (Revised): 1
+Heaven Born: 1
+Goopy mass: 1
+MtG - Kor: 1
+Lycanthrope: 1
+Hengeyokai : 1
+Holy Goliath: 1
+Safir: 1
+Draak'ar: 1
+Viperfolk: 1
+Alchemical Scarecrow: 1
+Dwarf (Aanheim variant): 1
+Szarkai: 1
+Lizardkin: 1
+Crocadilian: 1
+lizardfolk: 1
+Kitsune : 1
+Brown Bear: 1
+Shroomborn: 1
+Elf (World Walkers Universe): 1
+Dragonborn Revenant: 1
+Bloom Children: 1
+goblin: 1
+Kelpie: 1
+High Dagorcian: 1
+Neutral: 1
+Darkstalker: 1
+Minotaur : 1
+Aperture Device: 1
+Kitsune  (Homebrew): 1
+Orc!: 1
+bernuR: 1
+She-wolf: 1
+High Elf: 1
+Eldrazi: 1
+Moogle: 1
+Half-Minotaur: 1
+Dragonborn (Variant): 1
+Fey Elf: 1
+Half-Elf (Speed Variant): 1
+tabaxi: 1
+Talpid: 1
+Huncubi: 1
+Fey Dog: 1
+Faye: 1
+Forest Spirit: 1
+Hap-Fey: 1
+Abyssal Tiefling: 1
+Guidari: 1
+Venandi: 1
+(WoW) Dark Iron Dwarf: 1
+(WoW) Night Elf: 1
+(WoW) Draenei: 1
+DragonElf: 1
+SlimeLords: 1
+Rabbit: 1
+Lynx: 1
+Crow: 1
+Lupine Dragon: 1
+Wolfox: 1
+Warforged UA: 1
+Raccobolds: 1
+Raccobold: 1
+Human - Plains: 1
+Reincarnated Kildrake Satyr: 1
+Alien Grey: 1
+Kongōrikishi: 1
+Nymphaeus: 1
+Half goblin: 1
+Beast: 1
+Ezera Nemuoth: 1
+Wolfbold: 1
+Half-Elf (Revised): 1
+Gronn: 1
+Bat: 1
+yee naaldlooshii: 1
+Ochong: 1
+yuan ti: 1
+Gato: 1
+Dhampir - Midgard: 1
+Atla’Harkun: 1
+Born of the Storm: 1
+Sneeple: 1
+Cutis: 1
+Honorspren: 1
+Gerudo: 1
+Black Rider: 1
+Actually a Tiefling: 1
+Tabaxi/ Snow Leopard Varient: 1
+Automaton: 1
+Priaced: 1
+Elf-Dragonborn: 1
+Half-Goliath Eladrin: 1
+Reaper: 1
+Platyperson: 1
+Forsaken: 1
+Sentient Phase Spider: 1
+Mousekin: 1
+Crabtaur: 1
+Laecorai: 1
+Dragonwrought Kobold: 1
+Half Tiefling: 1
+Nalacen: 1
+"Human": 1
+Harpy: 1
+Cambion : 1
+Fallen angel: 1
+Felin: 1
+Canidae: 1
+Kallista's Stats: 1
+Anthro equine: 1
+Dark Elf (Drow): 1
+Tordine Oraci : 1
+Reptamun: 1
+Saltar: 1
+Demon: 1
+Relicforged: 1
+Lapineirdae: 1
+Cursed Variant (Swamp): 1
+Doppelganger Race: 1
+Briarling: 1
+Castorian: 1
+Faeborn: 1
+COPY_OF_Tabaxi: 1
+Ancient Ones: 1
+LizardFolk: 1
+Dothraki : 1
+ Clockworks: 1
+Lizard-Folk: 1
+Bane Juggernaut(Goliath): 1
+Flarusian: 1
+Cambion (Redeemed): 1
+Archon: 1
+Urd: 1
+Clockwork Golem: 1
+Half-Orc Variant (Feat): 1
+Tiefling Variant (Feat): 1
+Half-Valkryie : 1
+Ex-Geist: 1
+Tabaxi-Halfling: 1
+Triton Prime: 1
+Owl Aarakocra: 1
+Firbolg for Paige: 1
+Tiefling [Glasya Ancestry]: 1
+Halfdarkelf: 1
+Awakened Ape: 1
+Hexblood (Archived): 1
+Lightning Giants: 1
+Human/Dragonborn: 1
+Chronomancer: 1
+Dragoon: 1
+Tropic Avali: 1
+Copper Golem: 1
+Iron Giants: 1
+Leprechaun: 1
+Panda: 1
+Legion of Dusk Vampire: 1
+Miqo'te Custom: 1
+Ensouled Object: 1
+Draenei: 1
+Hobgoblin-Aasimar: 1
+Flintfoot Feral Tiefling: 1
+Snapwick Imp: 1
+Half-Siren: 1
+Surveyor Warforged Variant: 1
+Spinagon (Spined Devil): 1
+Ishim: 1
+Aasimar Protetor: 1
+Mexican't: 1
+Angler Titan: 1
+Silver Dragon: 1
+Gnolls of Raef (Gnor): 1
+Quetzalin: 1
+Sidheling: 1
+Undead Tortle: 1
+Additional Feat Half-Elf: 1
+Cl4-PPY: 1
+Displacer Beast: 1
+Serpent-Folk: 1
+Phasm: 1
+Warcraft Goblin: 1
+Ashborn: 1
+Moon Fey: 1
+Psychic Arthropod for Spelljammer w Doug: 1
+Khajiit: 1
+Draconi: 1
+Hiran Cervitaur: 1
+Sakaaran: 1
+Imini: 1
+?????: 1
+Flumph: 1
+Illyrian: 1
+Half-Demon: 1
+Racoon Critter: 1
+Abeil: 1
+Treent: 1
+Wanderfolk: 1
+shifter: 1
+Stormfolk: 1
+Werechicken: 1
+Seedling: 1
+Feytouched: 1
+Half-Elf Variant: 1
+Awakened Rabbit: 1
+Yantikite: 1
+LeShayan Elf: 1
+Half-Alicorn: 1
+Levistus Tiefling: 1
+Faerie Dragon: 1
+Potatoekin: 1
+Skullcap: 1
+Bladeling: 1
+Nephalem v2: 1
+Transplanted Dwarf: 1
+Angelborn: 1
+Merfolk - River Herald: 1
+Teethling: 1
+Pygmy Fox-folk: 1
+Giant Blooded Oresyn: 1
+Svensali: 1
+Lizaryd: 1
+Wolhelms: 1
+Vali: 1
+An'Ku: 1
+Mida: 1
+Harbingers: 1
+Alien: 1
+Half Banshee: 1
+Unearthed Arcana: Minotaur: 1
+Ratfolk : 1
+Mousefolk : 1
+Kenku Mimic: 1
+Corgotten: 1
+Evan's Goblin: 1
+Android: 1
+Gobs: 1
+Warforged Adaptable: 1
