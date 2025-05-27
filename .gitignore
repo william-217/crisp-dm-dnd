@@ -1,5 +1,5 @@
-Dataset/over_one_mil_chars.csv
-data/dnd_dataset.csv
+Dataset/*
+Dataset/**
 venv/
 .env/
 .venv/

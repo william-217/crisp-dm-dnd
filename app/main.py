@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Adjust the path to match your folder
-df = pd.read_csv('./data/dnd_dataset.csv')
+df = pd.read_csv('./Dataset/dnd_dataset.csv')
 
 df.drop(columns=['Unnamed: 0', 'char_id'], inplace=True)
 
@@ -23,3 +23,5 @@ race_counts = df['race'].value_counts()
 with open('unique_races.txt', 'w', encoding='utf-8') as f:
     for race, count in race_counts.items():
         f.write(f"{race}: {count}\n")
+
+print(df.head())
