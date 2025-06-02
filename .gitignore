@@ -1,6 +1,7 @@
 Dataset/*
 Dataset/**
 data/*
+src/*
 venv/
 .env/
 .venv/

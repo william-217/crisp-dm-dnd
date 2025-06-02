@@ -1,3 +1,4 @@
+import pandas as pd
 class DataPreparation:
     def __init__(self, df):
         self.df = df
@@ -41,6 +42,8 @@ class DataPreparation:
             self.df = self.df.drop(columns=remove_cols)
             self.removed_cols.extend(remove_cols)
             print(f"Colunas removidas: {remove_cols}")
+    
+
 
     def choose_shuffle(self):
         while True:
@@ -93,6 +96,8 @@ class DataPreparation:
             elif choice == '5':
                 self.show_stats()
             elif choice == '6':
+
                 break
             else:
                 print("Opção inválida.")
+    

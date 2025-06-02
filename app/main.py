@@ -8,16 +8,26 @@ from sklearn.model_selection import train_test_split
 if __name__ == "__main__":
 
     # 1. Importar dataset (DataLoader)
-    loader = DataLoader(folder_path="data")
-    filename = loader.choose_csv_file()
+    loader = DataLoader(base_folder="data/cleaned_datasets")
+
+    # Escolher subpasta primeiro
+    folder = loader.choose_subfolder()
+    if not folder:
+        exit()
+
+    # Escolher ficheiro dentro da subpasta
+    filename = loader.choose_csv_file(folder)
     if not filename:
         exit()
+
+    # Carregar o ficheiro selecionado
     df = loader.load_csv(filename)
     if df is None:
         exit()
 
     print("\nPrimeiras linhas do dataset:")
     print(df.head())
+
 
     # 2. Preparação dos dados (DataPreparation)
     prep = DataPreparation(df)
@@ -34,6 +44,8 @@ if __name__ == "__main__":
     # 3. Separar X e y (usar o DataFrame atualizado!)
     X = prep.df.drop(columns=[target_col])
     y = prep.df[target_col]
+
+
 
     # 4. Escolher modelo e treinar/avaliar
     while True:
@@ -56,6 +68,10 @@ if __name__ == "__main__":
         else:
             print("Opção inválida.")
             continue
+
+        # dummies nas features - Convert variaveis categóricas em variáveis dummy
+        import pandas as pd
+        X = pd.get_dummies(X)
 
         # Split dos dados
         X_train, X_test, y_train, y_test = train_test_split(
