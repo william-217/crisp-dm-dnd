@@ -1,0 +1,1114 @@
+race	race_normalized
+"""Blessed by Light"""	"""Blessed By Light"""
+(Retired) Deus	(Retired) Deus
+(WoW) Draenei	(Wow) Draenei
+?????	?????
+Owl Aarakocra	Aarakocra
+COPY_OF_Aarakocra	Aarakocra
+Aarakocra	Aarakocra
+Half Drow/Half Aasimar	Aasimar
+Protector Aasimar	Aasimar
+COPY_OF_Aasimar	Aasimar
+Ailthizar (Aasimar)	Aasimar
+Aasimar	Aasimar
+Aasimar Protetor	Aasimar
+Human-Aasimar	Aasimar
+Aasimar (Dragon Child)	Aasimar
+Aasimar (Volo's Guide to Monsters)	Aasimar
+Abeil	Abeil
+Abomination	Abomination
+Abyssal Cambion 	Abyssal Cambion
+Ackrylil	Ackrylil
+Ae'ren	Ae'Ren
+Aeolan	Aeolan
+Ashborn	Aetherborn
+Aetheril	Aetheril
+Ailead	Ailead
+Ajatar	Ajatar
+Alakar	Alakar
+Alchemical Scarecrow	Alchemical Scarecrow
+Alien	Alien
+Alien Grey	Alien Grey
+Alu-fiend	Alu-Fiend
+Amazon	Amazon
+Amazonian	Amazonian
+An'Ku	An'Ku
+Ancient Ones	Ancient Ones
+Android	Android
+Angel of Death	Angel Of Death
+Angelborn	Angelborn
+Angelic Phoenix	Angelic Phoenix
+Angels	Angels
+Angler Titan	Angler Titan
+Animated Armor	Animated Armor
+Anka	Anka
+Annülian	Annülian
+Anthro equine	Anthro Equine
+Anthropomorph	Anthropomorph
+Anubite	Anubite
+Ape	Ape
+Aperture Device	Aperture Device
+Aquari	Aquari
+Arachni	Arachni
+Arachnoid	Arachnoid
+Aranthi (GnG)	Aranthi (Gng)
+Archon	Archon
+Arenea	Arenea
+Aroura (Ratfolk)	Aroura (Ratfolk)
+Ashborn (AotG)	Ashborn (Aotg)
+Ashera	Ashera
+Asmodean Devil	Asmodean Devil
+Atlantic Peoples	Atlantic Peoples
+Atla’Harkun	Atla’Harkun
+Attalwen	Attalwen
+Atuin	Atuin
+Auld	Auld
+Auricar	Auricar
+Automaton	Automaton
+Autumn Hamadryad	Autumn Hamadryad
+Avali	Avali
+Avatar	Avatar
+Aven	Aven
+Heaven Born	Aven
+Awakened Animal	Awakened Animal
+Awakened Ape	Awakened Ape
+Awakened Beast	Awakened Beast
+Awakened Cat	Awakened Cat
+Awakened Dog	Awakened Dog
+Awakened Flesh Golem	Awakened Flesh Golem
+Awakened fox	Awakened Fox
+Awakened Half-Dragon	Awakened Half-Dragon
+Awakened Rabbit	Awakened Rabbit
+Awakened Tree	Awakened Tree
+Awakened Undead	Awakened Undead
+Awakened White Tiger	Awakened White Tiger
+Awoken Rabbit	Awoken Rabbit
+Axiom	Axiom
+Azlanti Pureblood	Azlanti Pureblood
+Bag of Holding	Bag Of Holding
+Baketako	Baketako
+Bat	Bat
+Bathynomian	Bathynomian
+Beast	Beast
+Beastfolk	Beastfolk
+Beastkin	Beastkin
+Beevallan	Beevallan
+bernuR	Bernur
+Black Rider	Black Rider
+Blackblood	Blackblood
+Bladeling	Bladeling
+Blood Angel	Blood Angel
+Bloodkissed	Bloodkissed
+Bloom Children	Bloom Children
+Blusian	Blusian
+Bonestruct	Bonestruct
+Born of the Storm	Born Of The Storm
+Breton	Breton
+Briarling	Briarling
+Brown Bear	Brown Bear
+Brownie	Brownie
+Buffkin	Buffkin
+Bugbear	Bugbear
+Faden_Bugbear	Bugbear
+Bear	Bugbear
+Bullywug	Bullywug
+Bureese	Bureese
+Børn af fortiden	Børn Af Fortiden
+Calamaris	Calamaris
+Cambion 	Cambion
+Cambion	Cambion
+Cambion (Redeemed)	Cambion (Redeemed)
+Canid	Canid
+Canidae	Canidae
+Castorian	Castorian
+Cat	Cat
+Cat Folk	Cat Folk
+Cat folk	Cat Folk
+Cathominem	Cathominem
+Catkin	Catkin
+Cecaelia	Cecaelia
+Centaur-UA	Centaur
+Caenara	Centaur
+Sylvan Centaur	Centaur
+Cervitaur	Centaur
+Centaur	Centaur
+Chaladon	Chaladon
+Changeling	Changeling
+Changeling (UA)	Changeling
+Changeling 	Changeling
+Orc-Changeling	Changeling
+Charr	Charr
+Chetova	Chetova
+Chimera	Chimera
+Chinaman	Chinaman
+Chinu	Chinu
+Chitine	Chitine
+Chronomancer	Chronomancer
+Cl4-PPY	Cl4-Ppy
+Clockwork	Clockwork
+Clockwork Construct	Clockwork Construct
+Clockwork Golem	Clockwork Golem
+ Clockworks	Clockworks
+Cnidarian	Cnidarian
+Construct	Construct
+Copper Golem	Copper Golem
+COPY_OF_Eldritch Fiend - Succubus Variant	Copy_Of_Eldritch Fiend - Succubus Variant
+Corgotten	Corgotten
+Crabtaur	Crabtaur
+Craislusian 	Craislusian
+Crimson Demon	Crimson Demon
+Crocadilian	Crocadilian
+Crow	Crow
+Cursed Feline	Cursed Feline
+Cursed Variant (Swamp)	Cursed Variant (Swamp)
+Custom Lineage	Custom Lineage
+Lineages	Custom Lineage
+Cutis	Cutis
+Cyberborn	Cyberborn
+Cyborg	Cyborg
+Daegoling	Daegoling
+Daevi	Daevi
+Dalharil	Dalharil
+Darfellan	Darfellan
+Dark (Drow)	Dark (Drow)
+Darklains	Darklains
+Darkstalker	Darkstalker
+Davi	Davi
+DeathClaw	Deathclaw
+Deep Gnome	Deep Gnome
+Degmon	Degmon
+Deku Scrub	Deku Scrub
+Delunian Mageforged	Delunian Mageforged
+Demigod	Demigod
+Demon	Demon
+Derro	Derro
+Desterran	Desterran
+Deva	Deva
+Deva (Zeitgeist)	Deva (Zeitgeist)
+Devil	Devil
+Dhamphir	Dhampir
+Dhampire	Dhampir
+Dhampir (Archived)	Dhampir
+WhiteSpire - Dhampir	Dhampir
+Dhampir - Midgard	Dhampir
+Dhampir	Dhampir
+Damphir	Dhampir
+Dhampyr	Dhampir
+Displacer Beast	Displacer Beast
+DL	Dl
+Dog	Dog
+Doppelganger	Doppelganger
+Doppelganger Race	Doppelganger Race
+Doppleganger	Doppleganger
+Dothraki 	Dothraki
+Draak'ar	Draak'Ar
+Draconi	Draconi
+Draconic Angel	Draconic Angel
+Draconic angel	Draconic Angel
+Draconic Races (Archived)	Draconic Races (Archived)
+Draconid	Draconid
+Draenei	Draenei
+Dragon Knight	Dragon Knight
+Half-Dragonborn	Dragonborn
+Dragonkin	Dragonborn
+Mercury Dragonborn	Dragonborn
+Half Elf Dragonborn	Dragonborn
+Elf-Dragonborn	Dragonborn
+Dragonborn II	Dragonborn
+The dragon born	Dragonborn
+Pink Dragonborn	Dragonborn
+Prismatic Dragonborn	Dragonborn
+Purple Dragonborn	Dragonborn
+Dexterous Dragonborn	Dragonborn
+Demonborn	Dragonborn
+Adamantine Dragonborn	Dragonborn
+Dragoon	Dragonborn
+Dragonborn (Revised)	Dragonborn
+Dragonborn Halfling	Dragonborn
+Dragon	Dragonborn
+Human/Dragonborn	Dragonborn
+Dragonborn (Breath Weapon Modified)	Dragonborn
+Gemstone Dragonborn	Dragonborn
+Dragonfolk	Dragonborn
+Dragonborn (Variant)	Dragonborn
+Dragonborn Legacy	Dragonborn
+Feral Dragonborn	Dragonborn
+Dragonborn (Sphaeran Variant)	Dragonborn
+Dragonborn of Ysterra	Dragonborn
+Dragonborn	Dragonborn
+Ravenite Dragonborn	Dragonborn
+Warmage Dragonborn	Dragonborn
+Dragonborn Revenant	Dragonborn
+Dragonborn Goliath	Dragonborn
+Drakonian [HB]	Drakonian [Hb]
+Dreya	Dreya
+Dromite	Dromite
+Drow	Drow
+Dryad	Dryad
+Duergar	Duergar
+Duhorov; Hill	Duhorov; Hill
+Duhorov; Mountain 	Duhorov; Mountain
+Dullahan	Dullahan
+Transplanted Dwarf	Dwarf
+Wild Dwarf	Dwarf
+Dwarf	Dwarf
+Dwarf (Aanheim variant)	Dwarf
+Half-Dwarf	Dwarf
+Dwarfling	Dwarf
+(WoW) Dark Iron Dwarf	Dwarf
+Dragondwarf	Dwarf
+Half Dwarf	Dwarf
+Eberron Znir Pact Gnoll	Eberron Znir Pact Gnoll
+Einherjar Shade	Einherjar Shade
+Ekurai	Ekurai
+Nelliadine	Eladrin
+Eldrazi	Eladrin
+Bearkin 	Eladrin
+Eladrin	Eladrin
+Half-Goliath Eladrin	Eladrin
+Bearkin	Eladrin
+Elapidae	Elapidae
+Elc	Elc
+Elderspawn	Elderspawn
+Elementalian	Elementalian
+Quarter-Elf	Elf
+Infernal Half Elf (Fey’ri) - With Bladesinger Subclass Abilities	Elf
+Elf	Elf
+Halfdarkelf	Elf
+Half Elf (variant)	Elf
+Jemmora Elf	Elf
+Drow (Dark Elf)	Elf
+Void Elf	Elf
+Moon Elf	Elf
+LeShayan Elf	Elf
+Undead Elf	Elf
+High Elf	Elf
+Elf (World Walkers Universe)	Elf
+Dwelf	Elf
+Scarred Lands Elf	Elf
+Astral Elf	Elf
+Stained Elf	Elf
+Woodsy Elf	Elf
+Sindar Elf	Elf
+WM Elf	Elf
+DragonElf	Elf
+Draco-Elf	Elf
+Dire Elf	Elf
+(WoW) Night Elf	Elf
+Zendikar Elf	Elf
+COPY_OF_Elf	Elf
+Drow Elf	Elf
+Squireelfolk	Elf
+Elf (Aanheim Variant)	Elf
+MtG Elf Variant	Elf
+Dark Elf (Drow)	Elf
+Sea Elf	Elf
+Desert Elf	Elf
+Elfling	Elf
+Blood Elf	Elf
+Fey Elf	Elf
+Deft Elf	Elf
+Rarê Elf	Elf
+Emier	Emier
+Ensouled Object	Ensouled Object
+Ent	Ent
+Erinyes	Erinyes
+Eteetif Vaekran	Eteetif Vaekran
+Ethryne	Ethryne
+Ettin	Ettin
+Ex-Geist	Ex-Geist
+Exile	Exile
+Ezera Nemuoth	Ezera Nemuoth
+Fae	Fae
+Fae Hybrid	Fae Hybrid
+Faerie	Faerie
+Faerie Dragon	Faerie Dragon
+Fairies	Fairies
+Faery	Fairy
+Fairy, Winged	Fairy
+Fairy (Archived)	Fairy
+Fairy 	Fairy
+Fairy	Fairy
+Fallen angel	Fallen Angel
+Faun 	Faun
+Faun	Faun
+Faunus	Faunus
+Favoured of Setesh	Favoured Of Setesh
+Faye	Faye
+Felic	Felic
+Felin	Felin
+Fey Corgi	Fey Corgi
+Fey Dog	Fey Dog
+Fey Folk	Fey Folk
+Fey'ri	Fey'Ri
+Feykin	Feykin
+Feytouched	Feytouched
+Firbolg	Firbolg
+Firbolg for Paige	Firbolg
+Firekindle Ragebeast	Firekindle Ragebeast
+Flarusian	Flarusian
+Fleeban	Fleeban
+Flora Colossus 	Flora Colossus
+Flora Colossus	Flora Colossus
+Flumph	Flumph
+Forest Mousefolk	Forest Mousefolk
+Forest Spirit	Forest Spirit
+Forsaken	Forsaken
+Fox	Fox
+Fox Folk	Fox Folk
+Fox Folk Kitsune	Fox Folk Kitsune
+Fox-folk	Fox-Folk
+Free Gnoll	Free Gnoll
+Frog Folk	Frog Folk
+Frost Troll	Frost Troll
+Frox	Frox
+Funglet	Funglet
+Furry Lion	Furry Lion
+G'HaKaan	G'Hakaan
+Galapian	Galapian
+Gallian	Gallian
+Gastrosapien	Gastrosapien
+Gato	Gato
+Water Genasi	Genasi
+Fire Genasi	Genasi
+Genasi	Genasi
+Genie	Genasi
+Earth Genasi	Genasi
+Dwarf Genasi	Genasi
+Magma Genasi	Genasi
+Air Genasi	Genasi
+Gerudo	Gerudo
+Ghost	Ghost
+Ghostblood	Ghostblood
+Giant Blooded Oresyn	Giant Blooded Oresyn
+Griffin	Giff
+Giff	Giff
+Giomorgo (Half-Vistani)	Giomorgo (Half-Vistani)
+Githzerai	Githzerai
+Lichkin	Glitchling
+Glowers	Glowers
+Gnoll	Gnoll
+Gnoll (Southland Heroes)	Gnoll (Southland Heroes)
+Gnolls of Raef (Gnor)	Gnolls Of Raef (Gnor)
+Forest Gnome	Gnome
+Half Gnome, Half Orc	Gnome
+Gnome	Gnome
+Gnorri	Gnorri
+Goblin (Ixalan)	Goblin
+Zendikar Goblin	Goblin
+Half-Goblin	Goblin
+Goblinoid Ogre	Goblin
+Goblin - Lorenzo	Goblin
+Eberron Goblin	Goblin
+Goblin	Goblin
+Evan's Goblin	Goblin
+Warcraft Goblin	Goblin
+goblin	Goblin
+Goblin (Aedin Setting)	Goblin
+Night Goblin	Goblin
+Goblin (Khron)	Goblin
+Half goblin	Goblin
+Gobs	Gobs
+Golem	Golem
+Dobor Goliath	Goliath
+Gith	Goliath
+Goliath Panda	Goliath
+Goliath (Tyrileth)	Goliath
+Bane Juggernaut(Goliath)	Goliath
+Golyatih	Goliath
+Goliant	Goliath
+Holy Goliath	Goliath
+Goliath (NG)	Goliath
+Half-Goliath	Goliath
+Goliath	Goliath
+Goliath (free feet variant)	Goliath
+Firboliath	Goliath
+Wearbear Goliath	Goliath
+Goliath based Chimera	Goliath
+Goopy mass	Goopy Mass
+Gorgon	Gorgon
+Gorilla	Gorilla
+Gothrik	Gothrik
+Green Slaad	Green Slaad
+Grim Angel (real version)	Grim Angel (Real Version)
+Grippli	Grippli
+Gronn	Gronn
+Grung	Grung
+Guidari	Guidari
+Hadozee	Hadozee
+Half - Dryad	Half - Dryad
+Half Banshee	Half Banshee
+Half breed	Half Breed
+Half Fey	Half Fey
+Half Giant	Half Giant
+Half-Demon	Half-Demon
+Half-Dragon	Half-Dragon
+Half-Dryad	Half-Dryad
+Hill Dwarf (Reincarnated Half-Elf)	Half-Elf
+Additional Feat Half-Elf	Half-Elf
+Half-elf/half Passerean	Half-Elf
+Half-Aasimar, Half-Elf	Half-Elf
+Tiefling Half-Elf	Half-Elf
+Half-Elf	Half-Elf
+Half-Angel	Half-Elf
+Half-Fey	Half-Elf
+Far-Realm-Touched Half-Elf	Half-Elf
+Half-elf/tiefling	Half-Elf
+Half-Elf-Orc	Half-Elf
+Dragon Half-Elf	Half-Elf
+Half-Elf (Revised)	Half-Elf
+COPY_OF_Half-Elf	Half-Elf
+Half-Elf (Speed Variant)	Half-Elf
+Half-Elf Variant	Half-Elf
+Half-Elf  (Copy)	Half-Elf
+Half-giant	Half-Giant
+Half-Giant	Half-Giant
+Half-giant 	Half-Giant
+Half-Kitsune	Half-Kitsune
+Half-Medusa	Half-Medusa
+Half-Oni/Half-Succubi	Half-Oni/Half-Succubi
+Half-Orc Aasimar	Half-Orc
+Tiefling Half-Orc	Half-Orc
+Half-Orc/Genasi	Half-Orc
+COPY_OF_Half-Orc	Half-Orc
+Half-Orc Goliath	Half-Orc
+Half-Ogre	Half-Orc
+Half-Drow	Half-Orc
+Half-Mer	Half-Orc
+Half-Orc Variant (Feat)	Half-Orc
+Half-Unicorn	Half-Orc
+Half-Orcish	Half-Orc
+Half-Orc Samurai	Half-Orc
+Half-Orc	Half-Orc
+Bennett's Half-Orc	Half-Orc
+Half-Oni	Half-Orc
+Half-Troll	Half-Troll
+Half-Valkryie 	Half-Valkryie
+Shiftling	Halfling
+Halfling	Halfling
+Halfling (World Walkers Universe)	Halfling
+Half-Alicorn	Halfling
+Yuan-ti (Halfling) Pureblood (HB)	Halfling
+Tabaxi-Halfling	Halfling
+Enlightened One - Halfling	Halfling
+Hamadryad	Hamadryad
+Hap-Fey	Hap-Fey
+Harbingers	Harbingers
+Harefolk	Harefolk
+Harengon	Harengon
+Harpy	Harpy
+Haunted Skull	Haunted Skull
+Hengeyokai	Hengeyokai
+Hengeyokai 	Hengeyokai
+Hephet	Hephet
+Hexblood (Archived)	Hexblood
+Hiran Cervitaur	Hiran Cervitaur
+Hirm	Hirm
+Hobgoblin	Hobgoblin
+Hobgoblin of the Feywild (Archived)	Hobgoblin
+Hobgoblin-Aasimar	Hobgoblin
+Homunculus	Homunculus
+Honorspren	Honorspren
+Horne	Horne
+HSR*	Hsr*
+HSS - Brendan	Hss - Brendan
+Human - Plains	Human
+Arcanum: Human	Human
+Human - Hoya	Human
+Man	Human
+Human Ancestry	Human
+Diaspora Human	Human
+Human (CR)	Human
+"""Human"""	Human
+Star Human	Human
+Jemmora Human	Human
+Human (World Walker Universe)	Human
+human, Werewolf	Human
+Human	Human
+Planegea Human - Devon	Human
+Enlightened Human	Human
+Human*	Human
+[OneD&D] Human	Human
+Human 	Human
+Human (Legacy)	Human
+COPY_OF_Human	Human
+Real Life Human	Human
+Huncubi	Huncubi
+Hungret	Hungret
+HUWYTE	Huwyte
+Hyur	Hyur
+Ice Troll	Ice Troll
+Ifrit	Ifrit
+Iksar	Iksar
+Illithid 	Illithid
+ILLITHID (renegade)	Illithid (Renegade)
+Illyrian	Illyrian
+Imini	Imini
+Immortal 	Immortal
+Imp	Imp
+Imperial	Imperial
+Inaba	Inaba
+Inkling	Inkling
+Iron Giants	Iron Giants
+Irontouched	Irontouched
+Ishim	Ishim
+Iter Ligno	Iter Ligno
+Jaalibon	Jaalibon
+Jackalfolk	Jackalfolk
+Jackalwere	Jackalwere
+Jotun	Jotun
+Kakuta	Kakuta
+kalasharen	Kalashtar
+Kalashtar	Kalashtar
+Kalashtar (UA)	Kalashtar
+Kalaxriel's First Brood	Kalaxriel'S First Brood
+Kaldorei	Kaldorei
+Kallista's Stats	Kallista'S Stats
+Kari-Eten	Kari-Eten
+Kekeke	Kekeke
+Kelethis 	Kelethis
+Kelpie	Kelpie
+Keme	Keme
+Kender	Kender
+Kenku Mimic	Kenku
+Wild Kenku	Kenku
+Kenku	Kenku
+Kessiger	Kessiger
+Kettir	Kettir
+Khajahadan	Khajahadan
+Khajiit	Khajiit
+Khajit	Khajit
+Khenra	Khenra
+Khulgani	Khulgani
+Kiroth	Kiroth
+Kitsune 	Kitsune
+Kitsune	Kitsune
+Kitsune  (Homebrew)	Kitsune  (Homebrew)
+Kitsune (Slyvan Blessed Fox)	Kitsune (Slyvan Blessed Fox)
+Dragonwrought Kobold	Kobold
+Kobold (Improved)	Kobold
+Wolfbold	Kobold
+Kobold (archived)	Kobold
+Midgard Kobold	Kobold
+Kobold Werewolf	Kobold
+Kobold Urd	Kobold
+Kobold	Kobold
+Kongōrikishi	Kongōrikishi
+Kor	Kor
+MtG - Kor	Kor
+Krutika	Krutika
+Kuo-Toa	Kuo-Toa
+Ladu'Acrum	Ladu'Acrum
+Laecorai	Laecorai
+Lamia	Lamia
+Lapine	Lapine
+Lapineirdae	Lapineirdae
+Lathari	Lathari
+Lemurian	Lemurian
+Eggonion 	Leonin
+Leonin	Leonin
+Leprechaun	Leprechaun
+Lich	Lich
+Lightborn	Lightborn
+Lightfoot Half-Hin Race	Lightfoot Half-Hin Race
+Lightless	Lightless
+Lightning Giants	Lightning Giants
+Lionfolk	Lionfolk
+LionFolk	Lionfolk
+Living Flesh Construct	Living Flesh Construct
+LizardFolk	Lizardfolk
+Lizardkin	Lizardfolk
+Lizardfolk- Alligator-kin Tribe	Lizardfolk
+Blackscale (Lizardfolk Variant)	Lizardfolk
+Lizardfolk- Velociraptor Tribe	Lizardfolk
+Lizardfolk- Gila Monster Tribe	Lizardfolk
+Lizardfolk- Axolotl Tribe	Lizardfolk
+lizardfolk	Lizardfolk
+Lizardfolk	Lizardfolk
+Lizardfolk- Chameleon Tribe	Lizardfolk
+Lizard-Folk	Lizardfolk
+Lizaryd	Lizardfolk
+Lizardfolk- Komodo Tribe	Lizardfolk
+Llamataur	Llamataur
+Locathah	Locathah
+Lorrnath	Lorrnath
+Bloodborn	Loxodon
+Loxodon-UA	Loxodon
+Loxodon 	Loxodon
+Loxodon	Loxodon
+Lucario	Lucario
+Lupin	Lupin
+Lupine	Lupine
+Lupine Dragon	Lupine Dragon
+Lutire	Lutire
+Lutire  MK II	Lutire  Mk Ii
+Lycan	Lycan
+Lycanthrope	Lycanthrope
+Lynx	Lynx
+Magi	Magi
+Magic Cat	Magic Cat
+Magical beast	Magical Beast
+Magitech Droid	Magitech Droid
+Maldrath	Maldrath
+Malkin	Malkin
+Mantid	Mantid
+Mantodea	Mantodea
+Mauko	Mauko
+Mausu	Mausu
+Medusa	Medusa
+Meerbat	Meerbat
+Megalosaurasapians	Megalosaurasapians
+Mer	Mer
+Merfolk	Merfolk
+Bearfolk	Merfolk
+Slimefolk	Merfolk
+Otterfolk	Merfolk
+Merfolk - River Herald	Merfolk
+Mousefolk	Merfolk
+Zendikar Merfolk	Merfolk
+Ula Merfolk 	Merfolk
+Mousefolk 	Merfolk
+Viperfolk	Merfolk
+Merfolk (Zendikar)	Merfolk
+Badgerfolk	Merfolk
+Wanderfolk	Merfolk
+Mexican't	Mexican'T
+Michtim	Michtim
+Mida	Mida
+Midgard Bearfolk	Midgard Bearfolk
+Midgard Gearforged	Midgard Gearforged
+Mikoto	Mikoto
+Mimic	Mimic
+Mind Flayer	Mind Flayer
+Minotaur-UA	Minotaur
+Minotaut	Minotaur
+Minotaur (UA)	Minotaur
+Minotaur 	Minotaur
+DL - Minotaur	Minotaur
+Minotaur	Minotaur
+Unearthed Arcana: Minotaur	Minotaur
+Minotaur of Midgard	Minotaur
+True Minotaur	Minotaur
+Aynerth Minotaur	Minotaur
+Half-Minotaur	Minotaur
+COPY_OF_Minotaur	Minotaur
+Minotaur (Krynn)	Minotaur
+Amonkhet Minotaur	Minotaur
+Miqo'te	Miqo'Te
+Miqo'te Custom	Miqo'Te Custom
+Mogogol	Mogogol
+Monolith	Monolith
+Moogle	Moogle
+Moon Fey	Moon Fey
+Moonfolk	Moonfolk
+Mothfolk	Mothfolk
+Mothkin	Mothkin
+Mousefolk Large	Mousefolk Large
+Mousekin	Mousekin
+Moüst	Moüst
+Mul	Mul
+Mummy	Mummy
+Muridae	Muridae
+Murloc	Murloc
+Mushroam	Mushroam
+Myconid	Myconid
+Nagaji	Naga
+Naga	Naga
+Nalacen	Nalacen
+Native American (Blackfoot)	Native American (Blackfoot)
+Natureling	Natureling
+Necrotempists	Necrotempists
+Neko race	Neko Race
+Nephalem	Nephalem
+Nephalem v2	Nephalem V2
+Nephilim	Nephilim
+Neutral	Neutral
+Nezumi	Nezumi
+Njörth	Njörth
+Nokken	Nokken
+Nopon	Nopon
+Nord	Nord
+Nosferatu	Nosferatu
+Nroji	Nroji
+Nymph	Nymph
+Nymphaeus	Nymphaeus
+Númenórean	Númenórean
+Oblex	Oblex
+Ochong	Ochong
+Ogre	Ogre
+Ogre (GT)	Ogre (Gt)
+Oina	Oina
+Olethrios	Olethrios
+Oni	Oni
+Orarukk	Orarukk
+Orc	Orc
+Orc of Eberron	Orc
+Orc!	Orc
+Orc (Revised)	Orc
+Orc of Exandria	Orc
+Orc (archived)	Orc
+High Dagorcian	Orc
+Elf Orc	Orc
+Sun-Hunter Orc	Orc
+Dworc	Orc
+Half Orc Half Drow	Orc
+True Orc	Orc
+Black Orc	Orc
+G'orc	Orc
+Draxnor Orc	Orc
+Quarter-Orc-half-plant	Orc
+Shattered Orc	Orc
+Elf-Orc	Orc
+Orcling	Orc
+Wood Elf-Orc	Orc
+Orcasion 	Orc
+Stone-Orc	Orc
+Orc'Klar	Orc
+Oreinak	Oreinak
+Orinthai	Orinthai
+Ork	Ork
+Otterman	Otterman
+Ovgiin	Ovgiin
+Owlbear	Owlbear
+Owlfolk	Owlfolk
+Owlfolk (Archived)	Owlfolk
+Walrusfolk	Owlfolk
+Ghoul Folk	Owlfolk
+Owl Folk	Owlfolk
+Owlin	Owlin
+Pactborn	Pactborn
+Panda	Panda
+Pandaren	Pandaren
+papillon	Papillon
+Pelanan	Pelanan
+Persona (gem)	Persona (Gem)
+Phasm	Phasm
+Piney	Piney
+Pixie 	Pixie
+Pixie	Pixie
+Plasmoid	Plasmoid
+Platyperson	Platyperson
+Plesiosaurus	Plesiosaurus
+Plover Primal	Plover Primal
+Possessed Cat	Possessed Cat
+Potatoekin	Potatoekin
+Priaced	Priaced
+Prima Terra, Ascended	Prima Terra, Ascended
+Prima Terra, Vozeri	Prima Terra, Vozeri
+Pseudodragon	Pseudodragon
+Psychic Arthropod for Spelljammer w Doug	Psychic Arthropod For Spelljammer W Doug
+Puppicorn	Puppicorn
+Pygmy Fox-folk	Pygmy Fox-Folk
+Quaggoth	Quaggoth
+Quetzalin	Quetzalin
+Qunari	Qunari
+Quorrl	Quorrl
+Ratfolk	Rabbitfolk
+Catfolk	Rabbitfolk
+Ratfolk 	Rabbitfolk
+Rabbitfolk	Rabbitfolk
+Rabbitfolk (Archived)	Rabbitfolk
+Rabbit	Rabbitfolk
+RabbitFolk	Rabbitfolk
+Rabbit Folk	Rabbitfolk
+Raccobold	Raccobold
+Raccobolds	Raccobolds
+Racoon Critter	Racoon Critter
+Raftan	Raftan
+Rakasta	Rakasta
+Rakshasa	Rakshasa
+Ralad	Ralad
+Rama	Rama
+Ratling	Ratling
+Rattkin	Rattkin
+Reader Catasect	Reader Catasect
+Real Panda	Real Panda
+Reaper	Reaper
+Arboren	Reborn
+Reborn (Archived)	Reborn
+Faeborn	Reborn
+Red Fox	Red Fox
+Redead	Redead
+Reincarnate	Reincarnate
+Reptamun	Reptamun
+Treent	Revenant
+Treeant	Revenant
+Human Revenant	Revenant
+Treant	Revenant
+Revenant (Human)	Revenant
+Revenant	Revenant
+Revenant - Human Variant CoS Kampanjebase	Revenant
+Revenant Human	Revenant
+Treant 	Revenant
+Revisitor	Revisitor
+Roegadyn	Roegadyn
+Rougarou	Rougarou
+Safir	Safir
+Sahuagin	Sahuagin
+Saiyan	Saiyan
+Sakaaran	Sakaaran
+Sasember	Sasember
+Sasquatch	Sasquatch
+Satyr	Satyr
+Saltar	Satyr
+Reincarnated Kildrake Satyr	Satyr
+Scarecrow	Scarecrow
+Sciurian	Sciurian
+Sea Monkey	Sea Monkey
+Sealed Dragon	Sealed Dragon
+Seedling	Seedling
+Selachian	Selachian
+Selkie	Selkie
+Sentient Phase Spider	Sentient Phase Spider
+Serpent-Folk	Serpent-Folk
+Shad	Shad
+Szarkai	Shadar-Kai
+Shadar-Kai	Shadar-Kai
+Shadar Kai	Shadar-Kai
+Shadar-kai	Shadar-Kai
+Shade	Shade
+Shadow Born	Shadow Born
+Shardmind	Shardmind
+Sharkfolk	Sharkfolk
+She-wolf	She-Wolf
+Sheikah	Sheikah
+shifter	Shifter
+Shifter (UA)	Shifter
+Cerberus Shifter	Shifter
+Shifter (Beasthide)	Shifter
+Shapeshifter	Shifter
+Shifter	Shifter
+Shin'en Kai	Shin'En Kai
+Shindarri Lieutenant	Shindarri Lieutenant
+Shroomborn	Shroomborn
+sibaro	Sibaro
+Silm	Silm
+Silva	Silva
+Silver Dragon	Silver Dragon
+Simic Hybrid	Simic Hybrid
+Siren	Siren
+Half-Siren	Siren
+ Sisslureelian	Sisslureelian
+Skallgin	Skallgin
+Skeleton	Skeleton
+SkinWalker	Skinwalker
+Skullcap	Skullcap
+Skurri	Skurri
+Skymin	Skymin
+SlimeLords	Slimelords
+Slusset	Slusset
+Snake Folk	Snake Folk
+Snapwick Imp	Snapwick Imp
+Sneeple	Sneeple
+Sol'Vra	Sol'Vra
+Sorrow May	Sorrow May
+Soulbound	Soulbound
+Soulforged	Soulforged
+Spellbound Alligator	Spellbound Alligator
+Spinagon (Spined Devil)	Spinagon (Spined Devil)
+Spiritforged	Spiritforged
+Spriggan	Spriggan
+Stonefolk 	Stonefolk
+Stormfolk	Stormfolk
+Strix (Grimfrost Campaign)	Strix (Grimfrost Campaign)
+Subrosian	Subrosian
+succubus	Succubus
+Succubus	Succubus
+Succubus/Incubus	Succubus/Incubus
+Sudalix	Sudalix
+Supial	Supial
+Surrogate	Surrogate
+Svensali	Svensali
+Sylvari	Sylvari
+Symian	Symian
+tab	Tab
+Tabaxi-1	Tabaxi
+Tabaxi (CR)	Tabaxi
+COPY_OF_Tabaxi	Tabaxi
+tabaxi	Tabaxi
+Half-Tabaxi	Tabaxi
+Tobaxi	Tabaxi
+Tabaxi	Tabaxi
+Tabaxi/ Snow Leopard Varient	Tabaxi
+ tabaxi	Tabaxi
+Tall	Tall
+Talpid	Talpid
+Tanarukk	Tanarukk
+Tarutaru	Tarutaru
+Teifkocra	Teifkocra
+Tentamouth	Tentamouth
+Tesumaki	Tesumaki
+Tetra	Tetra
+Thri-Kreen of Athas	Thri-Kreen
+Thri-kreen	Thri-Kreen
+Thri-Kreen	Thri-Kreen
+Thylean Medusa	Thylean Medusa
+Thylean Nymph	Thylean Nymph
+Teethling	Tiefling
+Incubus/Succubus (Tiefling Variant) 	Tiefling
+Thurmagaunt Tiefling	Tiefling
+Tiefling	Tiefling
+Tiefling (Balthazar)	Tiefling
+Fiendling	Tiefling
+Tiefling-Aasimar Hybrid	Tiefling
+Sidheling	Tiefling
+Zuggtmoy's Spawn (Tiefling Subrace)	Tiefling
+Tiefling - Zariel Variant	Tiefling
+Half Orc - Half Tiefling v2	Tiefling
+Tiefling Variant (Feat)	Tiefling
+Flintfoot Feral Tiefling	Tiefling
+Tiefling (Azazel)	Tiefling
+Levistus Tiefling	Tiefling
+Tiefling Variant	Tiefling
+Fierna Tiefling	Tiefling
+Tiefling [Glasya Ancestry]	Tiefling
+Truffling	Tiefling
+Tiefling Abyssal Varient	Tiefling
+Nephilim (Aasimar-Tiefling)	Tiefling
+Winged Tiefling	Tiefling
+Feytouched Tiefling	Tiefling
+Half Tiefling	Tiefling
+Tiefling with Fierna blood	Tiefling
+Abyssal Tiefling	Tiefling
+Gnome-Tiefling	Tiefling
+Iceblood Tiefling	Tiefling
+Tiefling of the Sun	Tiefling
+Tiefling Feral	Tiefling
+Variant Tiefling	Tiefling
+Tiefling (HR)	Tiefling
+Actually a Tiefling	Tiefling
+Celestial Tiefling	Tiefling
+Tiefling, Cambion	Tiefling
+Newly Minted Tiefling	Tiefling
+Feral Tiefling	Tiefling
+Dwarven Tiefling	Tiefling
+Tikikit	Tikikit
+Time Ghost	Time Ghost
+Time Lord	Time Lord
+Tokay	Tokay
+Tordine Oraci 	Tordine Oraci
+Undead Tortle	Tortle
+Tortle Mystic	Tortle
+Tortle	Tortle
+Tortel	Tortle
+Turtle	Tortle
+Treefolk	Treefolk
+Tressym	Tressym
+Triton Prime	Triton
+Silanu triton	Triton
+Triton	Triton
+Triton (swamp)	Triton
+Troll	Troll
+Troll (Alternian)	Troll (Alternian)
+Trollkind	Trollkind
+Tropic Avali	Tropic Avali
+Tuzetae	Tuzetae
+Twi'lek	Twi'Lek
+Typhon	Typhon
+Tzyn	Tzyn
+Ugandan Knuckles	Ugandan Knuckles
+Ulitharid	Ulitharid
+Undead	Undead
+Unicorn	Unicorn
+Urd	Urd
+Ursidae (Bearfolk)	Ursidae (Bearfolk)
+Ursine	Ursine
+Urskan	Urskan
+Uskad	Uskad
+Utu - The Orphaned	Utu - The Orphaned
+Vales (Fallen Angels)	Vales (Fallen Angels)
+Valheru	Valheru
+Vali	Vali
+Zendekar Vampire	Vampire
+Daywalker (Vampire Variant)	Vampire
+Human Vampire	Vampire
+Fey Vampire	Vampire
+Legion of Dusk Vampire	Vampire
+Half-vampire	Vampire
+Vampire	Vampire
+vampire	Vampire
+Vanara	Vanara
+Vanaras	Vanaras
+Varient(Feat) Mousefolk	Varient(Feat) Mousefolk
+Vedalken	Vedalken
+Valpen	Vedalken
+Vedalken-UA	Vedalken
+Veissux	Veissux
+Venandi	Venandi
+Verbeeg	Verbeeg
+Hyverman	Verdan
+Verdan	Verdan
+Veresio	Veresio
+Vernon	Vernon
+Vexeye	Vexeye
+Viashino-UA	Viashino
+Virikan	Virikan
+Void Folk	Void Folk
+Voidborn	Voidborn
+Voldur	Voldur
+Vryloka	Vryloka
+Vygul	Vygul
+Wakahnka	Wakahnka
+Warforged 2	Warforged
+Variant Warforged	Warforged
+warforge	Warforged
+Forged	Warforged
+Grimfrost Warforged	Warforged
+Warforged 	Warforged
+Warforged (UA)	Warforged
+Relicforged	Warforged
+War Forged	Warforged
+Gearforged	Warforged
+Warforge	Warforged
+Warforged (Subraces)	Warforged
+Surveyor Warforged Variant	Warforged
+Warforged Sentinel	Warforged
+Warforged Adaptable	Warforged
+Warforged UA	Warforged
+Warforged (AX)	Warforged
+Arcforged	Warforged
+Warforged (eberron5e.com)	Warforged
+Warforged	Warforged
+Weasel	Weasel
+WereBat	Werebat
+Werechicken	Werechicken
+Werefox	Werefox
+Weretouched	Weretouched
+Werewolf 	Werewolf
+Werewolf	Werewolf
+Wight	Wight
+Wight (Alheim)	Wight (Alheim)
+Wilden	Wilden
+Winter Wolf	Winter Wolf
+Wolfborn	Wolfborn
+Wolfen	Wolfen
+Wolfox	Wolfox
+Wolhelms	Wolhelms
+Wood Woad	Wood Woad
+Wookalar	Wookalar
+Wookie 	Wookie
+Wooloo	Wooloo
+Worgen	Worgen
+Wraith	Wraith
+Wricklet	Wricklet
+Wyvern (Youngling)	Wyvern (Youngling)
+Yantikite	Yantikite
+yee naaldlooshii	Yee Naaldlooshii
+Yivrri	Yivrri
+Ysoki	Ysoki
+Yuan-ti	Yuan-Ti
+yuan ti	Yuan-Ti
+Yuan-Ti	Yuan-Ti
+Serpentine Yuan-Ti	Yuan-Ti
+Yuan-Ti Malison	Yuan-Ti
+Yuan Ti Pureblood	Yuan-ti Pureblood
+Yuan-ti Pureblood (revised)	Yuan-ti Pureblood
+Yuan-ti Pureblood	Yuan-ti Pureblood
+Yuan-Ti Pureblood	Yuan-ti Pureblood
+Variant Human To Yuan-ti Pureblood	Yuan-ti Pureblood
+yuanti malison	Yuanti Malison
+Yuki-otoko	Yuki-Otoko
+Zenythri	Zenythri
+Zora	Zora
+[Tariel] Eagra	[Tariel] Eagra
+Людоящер	Людоящер
