@@ -1,27 +1,67 @@
-import pandas as pd
-import os
+from data_loader import DataLoader
+from data_prep import DataPreparation
+from models.dummy_classifier import DummyModel
+from models.random_forest import RandomForestModel
+from models.decision_tree import DecisionTreeModel
+from sklearn.model_selection import train_test_split
 
-# Adjust the path to match your folder
-df = pd.read_csv('./Dataset/dnd_dataset.csv')
+if __name__ == "__main__":
 
-df.drop(columns=['Unnamed: 0', 'char_id'], inplace=True)
+    # 1. Importar dataset (DataLoader)
+    loader = DataLoader(folder_path="data")
+    filename = loader.choose_csv_file()
+    if not filename:
+        exit()
+    df = loader.load_csv(filename)
+    if df is None:
+        exit()
 
-# --- Step 1: Sanitize Data ---
-stat_columns = ['base_hp', 'stats_1', 'stats_2', 'stats_3', 'stats_4', 'stats_5', 'stats_6']
-df = df[(df[stat_columns] != 0).all(axis=1)]
+    print("\nPrimeiras linhas do dataset:")
+    print(df.head())
 
-# --- Step 1.1: Use Webscraping to get all allowed races and classes from https://www.dndbeyond.com/species and https://www.dndbeyond.com/classes
+    # 2. Preparação dos dados (DataPreparation)
+    prep = DataPreparation(df)
+    prep.interactive_prep()
+    target_col = prep.choose_target()
+    test_size = prep.choose_split()
 
+    print(f"\nVariável alvo selecionada: {target_col}")
+    print(f"Percentagem para teste: {test_size*100:.0f}%")
+    print(f"Shuffle: {prep.shuffle}")
+    print(f"Random state: {prep.random_state}")
+    print(f"Colunas removidas: {prep.removed_cols}")
 
-# --- Step 1.2: Update the dataset to filter this out
+    # 3. Separar X e y (usar o DataFrame atualizado!)
+    X = prep.df.drop(columns=[target_col])
+    y = prep.df[target_col]
 
-unique_races = df['race'].dropna().unique()
-unique_races.sort()
+    # 4. Escolher modelo e treinar/avaliar
+    while True:
+        print("\nEscolha um modelo:")
+        print("1 - DummyClassifier")
+        print("2 - Random Forest")
+        print("3 - Decision Tree")
+        print("0 - Sair")
 
-race_counts = df['race'].value_counts()
+        choice = input("Selecione o número do modelo: ")
 
-with open('unique_races.txt', 'w', encoding='utf-8') as f:
-    for race, count in race_counts.items():
-        f.write(f"{race}: {count}\n")
+        if choice == '0':
+            break
+        elif choice == '1':
+            model = DummyModel(strategy="most_frequent")
+        elif choice == '2':
+            model = RandomForestModel()
+        elif choice == '3':
+            model = DecisionTreeModel()
+        else:
+            print("Opção inválida.")
+            continue
 
-print(df.head())
+        # Split dos dados
+        X_train, X_test, y_train, y_test = train_test_split(
+            X, y, test_size=test_size, shuffle=prep.shuffle, random_state=prep.random_state
+        )
+
+        # Treinar e avaliar
+        model.train(X_train, y_train)
+        model.evaluate(X_test, y_test)
