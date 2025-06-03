@@ -7,8 +7,22 @@ from sklearn.model_selection import train_test_split
 
 if __name__ == "__main__":
 
+    # Let user choose base folder
+    print("Escolha a origem dos dados:")
+    print("1 - cleaned_datasets_repeated_entries")
+    print("2 - cleaned_datasets")
+
+    folder_choice = input("Selecione o número da pasta: ").strip()
+    if folder_choice == "1":
+        base_folder = "data/cleaned_datasets_repeated_entries"
+    elif folder_choice == "2":
+        base_folder = "data/cleaned_datasets"
+    else:
+        print("Opção inválida. A sair.")
+        exit()
+
     # 1. Importar dataset (DataLoader)
-    loader = DataLoader(base_folder="data/cleaned_datasets_repeated_entries")
+    loader = DataLoader(base_folder=base_folder)
 
     # Escolher subpasta primeiro
     folder = loader.choose_subfolder()
