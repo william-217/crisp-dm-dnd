@@ -77,6 +77,8 @@ if __name__ == "__main__":
         X_train, X_test, y_train, y_test = train_test_split(
             X, y, test_size=test_size, shuffle=prep.shuffle, random_state=prep.random_state
         )
+        print("Primeiras linhas de X_train:")
+        print(X_train.head(20))
 
         # Treinar e avaliar
         model.train(X_train, y_train)
