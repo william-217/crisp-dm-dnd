@@ -3,18 +3,18 @@ race	race_normalized
 (Retired) Deus	(Retired) Deus
 (WoW) Draenei	(Wow) Draenei
 ?????	?????
-COPY_OF_Aarakocra	Aarakocra
 Owl Aarakocra	Aarakocra
+COPY_OF_Aarakocra	Aarakocra
 Aarakocra	Aarakocra
-Human-Aasimar	Aasimar
-Ailthizar (Aasimar)	Aasimar
-Aasimar (Volo's Guide to Monsters)	Aasimar
 Half Drow/Half Aasimar	Aasimar
-COPY_OF_Aasimar	Aasimar
-Aasimar (Dragon Child)	Aasimar
 Protector Aasimar	Aasimar
-Aasimar Protetor	Aasimar
+COPY_OF_Aasimar	Aasimar
+Ailthizar (Aasimar)	Aasimar
 Aasimar	Aasimar
+Aasimar Protetor	Aasimar
+Human-Aasimar	Aasimar
+Aasimar (Dragon Child)	Aasimar
+Aasimar (Volo's Guide to Monsters)	Aasimar
 Abeil	Abeil
 Abomination	Abomination
 Abyssal Cambion 	Abyssal Cambion
@@ -108,15 +108,15 @@ Briarling	Briarling
 Brown Bear	Brown Bear
 Brownie	Brownie
 Buffkin	Buffkin
-Bear	Bugbear
 Bugbear	Bugbear
 Faden_Bugbear	Bugbear
+Bear	Bugbear
 Bullywug	Bullywug
 Bureese	Bureese
 Børn af fortiden	Børn Af Fortiden
 Calamaris	Calamaris
-Cambion	Cambion
 Cambion 	Cambion
+Cambion	Cambion
 Cambion (Redeemed)	Cambion (Redeemed)
 Canid	Canid
 Canidae	Canidae
@@ -127,15 +127,15 @@ Cat folk	Cat Folk
 Cathominem	Cathominem
 Catkin	Catkin
 Cecaelia	Cecaelia
-Centaur	Centaur
-Sylvan Centaur	Centaur
 Centaur-UA	Centaur
-Cervitaur	Centaur
 Caenara	Centaur
+Sylvan Centaur	Centaur
+Cervitaur	Centaur
+Centaur	Centaur
 Chaladon	Chaladon
-Changeling 	Changeling
-Changeling (UA)	Changeling
 Changeling	Changeling
+Changeling (UA)	Changeling
+Changeling 	Changeling
 Orc-Changeling	Changeling
 Charr	Charr
 Chetova	Chetova
@@ -180,19 +180,20 @@ Degmon	Degmon
 Deku Scrub	Deku Scrub
 Delunian Mageforged	Delunian Mageforged
 Demigod	Demigod
+Demon	Demon
 Derro	Derro
 Desterran	Desterran
 Deva	Deva
 Deva (Zeitgeist)	Deva (Zeitgeist)
 Devil	Devil
-Dhampyr	Dhampir
-Damphir	Dhampir
-Dhampir	Dhampir
+Dhamphir	Dhampir
+Dhampire	Dhampir
+Dhampir (Archived)	Dhampir
 WhiteSpire - Dhampir	Dhampir
 Dhampir - Midgard	Dhampir
-Dhampire	Dhampir
-Dhamphir	Dhampir
-Dhampir (Archived)	Dhampir
+Dhampir	Dhampir
+Damphir	Dhampir
+Dhampyr	Dhampir
 Displacer Beast	Displacer Beast
 DL	Dl
 Dog	Dog
@@ -208,37 +209,37 @@ Draconic Races (Archived)	Draconic Races (Archived)
 Draconid	Draconid
 Draenei	Draenei
 Dragon Knight	Dragon Knight
-Dragonborn Halfling	Dragonborn
-Dragonfolk	Dragonborn
-Dragonborn Revenant	Dragonborn
-Dragonborn Goliath	Dragonborn
-Dexterous Dragonborn	Dragonborn
-Dragonborn	Dragonborn
-Dragonborn II	Dragonborn
-Dragonkin	Dragonborn
 Half-Dragonborn	Dragonborn
+Dragonkin	Dragonborn
+Mercury Dragonborn	Dragonborn
+Half Elf Dragonborn	Dragonborn
+Elf-Dragonborn	Dragonborn
+Dragonborn II	Dragonborn
+The dragon born	Dragonborn
+Pink Dragonborn	Dragonborn
+Prismatic Dragonborn	Dragonborn
+Purple Dragonborn	Dragonborn
+Dexterous Dragonborn	Dragonborn
+Demonborn	Dragonborn
+Adamantine Dragonborn	Dragonborn
+Dragoon	Dragonborn
+Dragonborn (Revised)	Dragonborn
+Dragonborn Halfling	Dragonborn
+Dragon	Dragonborn
+Human/Dragonborn	Dragonborn
+Dragonborn (Breath Weapon Modified)	Dragonborn
+Gemstone Dragonborn	Dragonborn
+Dragonfolk	Dragonborn
+Dragonborn (Variant)	Dragonborn
 Dragonborn Legacy	Dragonborn
 Feral Dragonborn	Dragonborn
-Prismatic Dragonborn	Dragonborn
-Demonborn	Dragonborn
-Purple Dragonborn	Dragonborn
-Dragonborn of Ysterra	Dragonborn
-Gemstone Dragonborn	Dragonborn
-Adamantine Dragonborn	Dragonborn
-Elf-Dragonborn	Dragonborn
-Dragonborn (Breath Weapon Modified)	Dragonborn
-Dragoon	Dragonborn
-Ravenite Dragonborn	Dragonborn
-The dragon born	Dragonborn
-Human/Dragonborn	Dragonborn
 Dragonborn (Sphaeran Variant)	Dragonborn
-Pink Dragonborn	Dragonborn
-Dragon	Dragonborn
+Dragonborn of Ysterra	Dragonborn
+Dragonborn	Dragonborn
+Ravenite Dragonborn	Dragonborn
 Warmage Dragonborn	Dragonborn
-Half Elf Dragonborn	Dragonborn
-Dragonborn (Revised)	Dragonborn
-Mercury Dragonborn	Dragonborn
-Dragonborn (Variant)	Dragonborn
+Dragonborn Revenant	Dragonborn
+Dragonborn Goliath	Dragonborn
 Drakonian [HB]	Drakonian [Hb]
 Dreya	Dreya
 Dromite	Dromite
@@ -248,66 +249,66 @@ Duergar	Duergar
 Duhorov; Hill	Duhorov; Hill
 Duhorov; Mountain 	Duhorov; Mountain
 Dullahan	Dullahan
-Half Dwarf	Dwarf
-Dwarf	Dwarf
-Dwarfling	Dwarf
-Dragondwarf	Dwarf
-Wild Dwarf	Dwarf
-Half-Dwarf	Dwarf
 Transplanted Dwarf	Dwarf
+Wild Dwarf	Dwarf
+Dwarf	Dwarf
 Dwarf (Aanheim variant)	Dwarf
+Half-Dwarf	Dwarf
+Dwarfling	Dwarf
 (WoW) Dark Iron Dwarf	Dwarf
+Dragondwarf	Dwarf
+Half Dwarf	Dwarf
 Eberron Znir Pact Gnoll	Eberron Znir Pact Gnoll
 Einherjar Shade	Einherjar Shade
 Ekurai	Ekurai
-Half-Goliath Eladrin	Eladrin
+Nelliadine	Eladrin
+Eldrazi	Eladrin
 Bearkin 	Eladrin
 Eladrin	Eladrin
-Eldrazi	Eladrin
-Nelliadine	Eladrin
+Half-Goliath Eladrin	Eladrin
 Bearkin	Eladrin
 Elapidae	Elapidae
 Elc	Elc
 Elderspawn	Elderspawn
 Elementalian	Elementalian
-Dire Elf	Elf
-Moon Elf	Elf
-Dwelf	Elf
+Quarter-Elf	Elf
+Infernal Half Elf (Fey’ri) - With Bladesinger Subclass Abilities	Elf
 Elf	Elf
-Draco-Elf	Elf
+Halfdarkelf	Elf
 Half Elf (variant)	Elf
-Rarê Elf	Elf
-Elf (World Walkers Universe)	Elf
-Stained Elf	Elf
-Sindar Elf	Elf
 Jemmora Elf	Elf
-Astral Elf	Elf
-Dark Elf (Drow)	Elf
+Drow (Dark Elf)	Elf
+Void Elf	Elf
+Moon Elf	Elf
 LeShayan Elf	Elf
 Undead Elf	Elf
-Drow Elf	Elf
-Blood Elf	Elf
-WM Elf	Elf
-MtG Elf Variant	Elf
-Fey Elf	Elf
 High Elf	Elf
-Squireelfolk	Elf
-Deft Elf	Elf
-Desert Elf	Elf
-Quarter-Elf	Elf
-Drow (Dark Elf)	Elf
-Infernal Half Elf (Fey’ri) - With Bladesinger Subclass Abilities	Elf
-Zendikar Elf	Elf
-(WoW) Night Elf	Elf
-Void Elf	Elf
-DragonElf	Elf
-Elf (Aanheim Variant)	Elf
-Halfdarkelf	Elf
-Sea Elf	Elf
-COPY_OF_Elf	Elf
+Elf (World Walkers Universe)	Elf
+Dwelf	Elf
 Scarred Lands Elf	Elf
+Astral Elf	Elf
+Stained Elf	Elf
 Woodsy Elf	Elf
+Sindar Elf	Elf
+WM Elf	Elf
+DragonElf	Elf
+Draco-Elf	Elf
+Dire Elf	Elf
+(WoW) Night Elf	Elf
+Zendikar Elf	Elf
+COPY_OF_Elf	Elf
+Drow Elf	Elf
+Squireelfolk	Elf
+Elf (Aanheim Variant)	Elf
+MtG Elf Variant	Elf
+Dark Elf (Drow)	Elf
+Sea Elf	Elf
+Desert Elf	Elf
 Elfling	Elf
+Blood Elf	Elf
+Fey Elf	Elf
+Deft Elf	Elf
+Rarê Elf	Elf
 Emier	Emier
 Ensouled Object	Ensouled Object
 Ent	Ent
@@ -323,11 +324,11 @@ Fae Hybrid	Fae Hybrid
 Faerie	Faerie
 Faerie Dragon	Faerie Dragon
 Fairies	Fairies
-Fairy, Winged	Fairy
-Fairy 	Fairy
-Fairy (Archived)	Fairy
-Fairy	Fairy
 Faery	Fairy
+Fairy, Winged	Fairy
+Fairy (Archived)	Fairy
+Fairy 	Fairy
+Fairy	Fairy
 Fallen angel	Fallen Angel
 Faun 	Faun
 Faun	Faun
@@ -342,8 +343,8 @@ Fey Folk	Fey Folk
 Fey'ri	Fey'Ri
 Feykin	Feykin
 Feytouched	Feytouched
-Firbolg for Paige	Firbolg
 Firbolg	Firbolg
+Firbolg for Paige	Firbolg
 Firekindle Ragebeast	Firekindle Ragebeast
 Flarusian	Flarusian
 Fleeban	Fleeban
@@ -368,20 +369,20 @@ Galapian	Galapian
 Gallian	Gallian
 Gastrosapien	Gastrosapien
 Gato	Gato
-Genasi	Genasi
 Water Genasi	Genasi
-Air Genasi	Genasi
-Genie	Genasi
-Magma Genasi	Genasi
 Fire Genasi	Genasi
-Dwarf Genasi	Genasi
+Genasi	Genasi
+Genie	Genasi
 Earth Genasi	Genasi
+Dwarf Genasi	Genasi
+Magma Genasi	Genasi
+Air Genasi	Genasi
 Gerudo	Gerudo
 Ghost	Ghost
 Ghostblood	Ghostblood
 Giant Blooded Oresyn	Giant Blooded Oresyn
-Giff	Giff
 Griffin	Giff
+Giff	Giff
 Giomorgo (Half-Vistani)	Giomorgo (Half-Vistani)
 Githzerai	Githzerai
 Lichkin	Glitchling
@@ -393,37 +394,37 @@ Forest Gnome	Gnome
 Half Gnome, Half Orc	Gnome
 Gnome	Gnome
 Gnorri	Gnorri
-Night Goblin	Goblin
-Half goblin	Goblin
-Eberron Goblin	Goblin
-Zendikar Goblin	Goblin
 Goblin (Ixalan)	Goblin
-goblin	Goblin
-Goblin - Lorenzo	Goblin
-Goblin (Khron)	Goblin
-Warcraft Goblin	Goblin
-Goblin (Aedin Setting)	Goblin
-Evan's Goblin	Goblin
-Goblin	Goblin
-Goblinoid Ogre	Goblin
+Zendikar Goblin	Goblin
 Half-Goblin	Goblin
+Goblinoid Ogre	Goblin
+Goblin - Lorenzo	Goblin
+Eberron Goblin	Goblin
+Goblin	Goblin
+Evan's Goblin	Goblin
+Warcraft Goblin	Goblin
+goblin	Goblin
+Goblin (Aedin Setting)	Goblin
+Night Goblin	Goblin
+Goblin (Khron)	Goblin
+Half goblin	Goblin
 Gobs	Gobs
 Golem	Golem
-Goliath (NG)	Goliath
-Goliant	Goliath
 Dobor Goliath	Goliath
+Gith	Goliath
+Goliath Panda	Goliath
 Goliath (Tyrileth)	Goliath
 Bane Juggernaut(Goliath)	Goliath
-Goliath	Goliath
-Half-Goliath	Goliath
 Golyatih	Goliath
+Goliant	Goliath
+Holy Goliath	Goliath
+Goliath (NG)	Goliath
+Half-Goliath	Goliath
+Goliath	Goliath
 Goliath (free feet variant)	Goliath
 Firboliath	Goliath
 Wearbear Goliath	Goliath
-Gith	Goliath
-Goliath Panda	Goliath
 Goliath based Chimera	Goliath
-Holy Goliath	Goliath
 Goopy mass	Goopy Mass
 Gorgon	Gorgon
 Gorilla	Gorilla
@@ -443,51 +444,51 @@ Half Giant	Half Giant
 Half-Demon	Half-Demon
 Half-Dragon	Half-Dragon
 Half-Dryad	Half-Dryad
-Half-Elf (Speed Variant)	Half-Elf
-Half-Elf (Revised)	Half-Elf
-Half-Elf-Orc	Half-Elf
-Half-Fey	Half-Elf
+Hill Dwarf (Reincarnated Half-Elf)	Half-Elf
+Additional Feat Half-Elf	Half-Elf
 Half-elf/half Passerean	Half-Elf
-Half-elf/tiefling	Half-Elf
+Half-Aasimar, Half-Elf	Half-Elf
+Tiefling Half-Elf	Half-Elf
 Half-Elf	Half-Elf
 Half-Angel	Half-Elf
-Half-Aasimar, Half-Elf	Half-Elf
-COPY_OF_Half-Elf	Half-Elf
-Dragon Half-Elf	Half-Elf
-Half-Elf Variant	Half-Elf
-Additional Feat Half-Elf	Half-Elf
-Hill Dwarf (Reincarnated Half-Elf)	Half-Elf
-Half-Elf  (Copy)	Half-Elf
-Tiefling Half-Elf	Half-Elf
+Half-Fey	Half-Elf
 Far-Realm-Touched Half-Elf	Half-Elf
-Half-Giant	Half-Giant
+Half-elf/tiefling	Half-Elf
+Half-Elf-Orc	Half-Elf
+Dragon Half-Elf	Half-Elf
+Half-Elf (Revised)	Half-Elf
+COPY_OF_Half-Elf	Half-Elf
+Half-Elf (Speed Variant)	Half-Elf
+Half-Elf Variant	Half-Elf
+Half-Elf  (Copy)	Half-Elf
 Half-giant	Half-Giant
+Half-Giant	Half-Giant
 Half-giant 	Half-Giant
 Half-Kitsune	Half-Kitsune
 Half-Medusa	Half-Medusa
 Half-Oni/Half-Succubi	Half-Oni/Half-Succubi
-Tiefling Half-Orc	Half-Orc
-Half-Orcish	Half-Orc
-COPY_OF_Half-Orc	Half-Orc
-Half-Drow	Half-Orc
 Half-Orc Aasimar	Half-Orc
+Tiefling Half-Orc	Half-Orc
 Half-Orc/Genasi	Half-Orc
-Bennett's Half-Orc	Half-Orc
-Half-Mer	Half-Orc
-Half-Orc Samurai	Half-Orc
-Half-Oni	Half-Orc
-Half-Orc Variant (Feat)	Half-Orc
+COPY_OF_Half-Orc	Half-Orc
 Half-Orc Goliath	Half-Orc
-Half-Unicorn	Half-Orc
-Half-Orc	Half-Orc
 Half-Ogre	Half-Orc
+Half-Drow	Half-Orc
+Half-Mer	Half-Orc
+Half-Orc Variant (Feat)	Half-Orc
+Half-Unicorn	Half-Orc
+Half-Orcish	Half-Orc
+Half-Orc Samurai	Half-Orc
+Half-Orc	Half-Orc
+Bennett's Half-Orc	Half-Orc
+Half-Oni	Half-Orc
 Half-Troll	Half-Troll
 Half-Valkryie 	Half-Valkryie
-Yuan-ti (Halfling) Pureblood (HB)	Halfling
-Half-Alicorn	Halfling
 Shiftling	Halfling
-Halfling (World Walkers Universe)	Halfling
 Halfling	Halfling
+Halfling (World Walkers Universe)	Halfling
+Half-Alicorn	Halfling
+Yuan-ti (Halfling) Pureblood (HB)	Halfling
 Tabaxi-Halfling	Halfling
 Enlightened One - Halfling	Halfling
 Hamadryad	Hamadryad
@@ -497,8 +498,8 @@ Harefolk	Harefolk
 Harengon	Harengon
 Harpy	Harpy
 Haunted Skull	Haunted Skull
-Hengeyokai 	Hengeyokai
 Hengeyokai	Hengeyokai
+Hengeyokai 	Hengeyokai
 Hephet	Hephet
 Hexblood (Archived)	Hexblood
 Hiran Cervitaur	Hiran Cervitaur
@@ -511,26 +512,26 @@ Honorspren	Honorspren
 Horne	Horne
 HSR*	Hsr*
 HSS - Brendan	Hss - Brendan
-Planegea Human - Devon	Human
+Human - Plains	Human
+Arcanum: Human	Human
 Human - Hoya	Human
+Man	Human
+Human Ancestry	Human
+Diaspora Human	Human
+Human (CR)	Human
+"""Human"""	Human
+Star Human	Human
 Jemmora Human	Human
 Human (World Walker Universe)	Human
-Enlightened Human	Human
-Arcanum: Human	Human
-COPY_OF_Human	Human
-Star Human	Human
-"""Human"""	Human
-Human (Legacy)	Human
-Human - Plains	Human
-Human (CR)	Human
 human, Werewolf	Human
-Human*	Human
-Human 	Human
-Diaspora Human	Human
-Human Ancestry	Human
-Man	Human
 Human	Human
+Planegea Human - Devon	Human
+Enlightened Human	Human
+Human*	Human
 [OneD&D] Human	Human
+Human 	Human
+Human (Legacy)	Human
+COPY_OF_Human	Human
 Real Life Human	Human
 Huncubi	Huncubi
 Hungret	Hungret
@@ -558,8 +559,8 @@ Jackalwere	Jackalwere
 Jotun	Jotun
 Kakuta	Kakuta
 kalasharen	Kalashtar
-Kalashtar (UA)	Kalashtar
 Kalashtar	Kalashtar
+Kalashtar (UA)	Kalashtar
 Kalaxriel's First Brood	Kalaxriel'S First Brood
 Kaldorei	Kaldorei
 Kallista's Stats	Kallista'S Stats
@@ -569,9 +570,9 @@ Kelethis 	Kelethis
 Kelpie	Kelpie
 Keme	Keme
 Kender	Kender
+Kenku Mimic	Kenku
 Wild Kenku	Kenku
 Kenku	Kenku
-Kenku Mimic	Kenku
 Kessiger	Kessiger
 Kettir	Kettir
 Khajahadan	Khajahadan
@@ -580,18 +581,18 @@ Khajit	Khajit
 Khenra	Khenra
 Khulgani	Khulgani
 Kiroth	Kiroth
-Kitsune	Kitsune
 Kitsune 	Kitsune
+Kitsune	Kitsune
 Kitsune  (Homebrew)	Kitsune  (Homebrew)
 Kitsune (Slyvan Blessed Fox)	Kitsune (Slyvan Blessed Fox)
-Kobold Werewolf	Kobold
+Dragonwrought Kobold	Kobold
+Kobold (Improved)	Kobold
 Wolfbold	Kobold
 Kobold (archived)	Kobold
-Kobold	Kobold
-Kobold (Improved)	Kobold
 Midgard Kobold	Kobold
-Dragonwrought Kobold	Kobold
+Kobold Werewolf	Kobold
 Kobold Urd	Kobold
+Kobold	Kobold
 Kongōrikishi	Kongōrikishi
 Kor	Kor
 MtG - Kor	Kor
@@ -604,8 +605,8 @@ Lapine	Lapine
 Lapineirdae	Lapineirdae
 Lathari	Lathari
 Lemurian	Lemurian
-Leonin	Leonin
 Eggonion 	Leonin
+Leonin	Leonin
 Leprechaun	Leprechaun
 Lich	Lich
 Lightborn	Lightborn
@@ -615,26 +616,26 @@ Lightning Giants	Lightning Giants
 Lionfolk	Lionfolk
 LionFolk	Lionfolk
 Living Flesh Construct	Living Flesh Construct
+LizardFolk	Lizardfolk
 Lizardkin	Lizardfolk
-Lizardfolk- Velociraptor Tribe	Lizardfolk
-Lizardfolk- Chameleon Tribe	Lizardfolk
-Lizardfolk- Gila Monster Tribe	Lizardfolk
 Lizardfolk- Alligator-kin Tribe	Lizardfolk
-Lizard-Folk	Lizardfolk
+Blackscale (Lizardfolk Variant)	Lizardfolk
+Lizardfolk- Velociraptor Tribe	Lizardfolk
+Lizardfolk- Gila Monster Tribe	Lizardfolk
+Lizardfolk- Axolotl Tribe	Lizardfolk
 lizardfolk	Lizardfolk
 Lizardfolk	Lizardfolk
-Lizardfolk- Axolotl Tribe	Lizardfolk
-LizardFolk	Lizardfolk
-Lizardfolk- Komodo Tribe	Lizardfolk
-Blackscale (Lizardfolk Variant)	Lizardfolk
+Lizardfolk- Chameleon Tribe	Lizardfolk
+Lizard-Folk	Lizardfolk
 Lizaryd	Lizardfolk
+Lizardfolk- Komodo Tribe	Lizardfolk
 Llamataur	Llamataur
 Locathah	Locathah
 Lorrnath	Lorrnath
 Bloodborn	Loxodon
-Loxodon	Loxodon
-Loxodon 	Loxodon
 Loxodon-UA	Loxodon
+Loxodon 	Loxodon
+Loxodon	Loxodon
 Lucario	Lucario
 Lupin	Lupin
 Lupine	Lupine
@@ -658,19 +659,19 @@ Medusa	Medusa
 Meerbat	Meerbat
 Megalosaurasapians	Megalosaurasapians
 Mer	Mer
-Otterfolk	Merfolk
-Merfolk (Zendikar)	Merfolk
-Mousefolk	Merfolk
-Badgerfolk	Merfolk
 Merfolk	Merfolk
 Bearfolk	Merfolk
-Wanderfolk	Merfolk
-Viperfolk	Merfolk
 Slimefolk	Merfolk
+Otterfolk	Merfolk
+Merfolk - River Herald	Merfolk
+Mousefolk	Merfolk
 Zendikar Merfolk	Merfolk
 Ula Merfolk 	Merfolk
 Mousefolk 	Merfolk
-Merfolk - River Herald	Merfolk
+Viperfolk	Merfolk
+Merfolk (Zendikar)	Merfolk
+Badgerfolk	Merfolk
+Wanderfolk	Merfolk
 Mexican't	Mexican'T
 Michtim	Michtim
 Mida	Mida
@@ -679,20 +680,20 @@ Midgard Gearforged	Midgard Gearforged
 Mikoto	Mikoto
 Mimic	Mimic
 Mind Flayer	Mind Flayer
-Minotaur (Krynn)	Minotaur
-Minotaur	Minotaur
 Minotaur-UA	Minotaur
-Half-Minotaur	Minotaur
-Aynerth Minotaur	Minotaur
-Minotaur 	Minotaur
-COPY_OF_Minotaur	Minotaur
 Minotaut	Minotaur
-True Minotaur	Minotaur
-Amonkhet Minotaur	Minotaur
 Minotaur (UA)	Minotaur
+Minotaur 	Minotaur
+DL - Minotaur	Minotaur
+Minotaur	Minotaur
 Unearthed Arcana: Minotaur	Minotaur
 Minotaur of Midgard	Minotaur
-DL - Minotaur	Minotaur
+True Minotaur	Minotaur
+Aynerth Minotaur	Minotaur
+Half-Minotaur	Minotaur
+COPY_OF_Minotaur	Minotaur
+Minotaur (Krynn)	Minotaur
+Amonkhet Minotaur	Minotaur
 Miqo'te	Miqo'Te
 Miqo'te Custom	Miqo'Te Custom
 Mogogol	Mogogol
@@ -740,40 +741,40 @@ Oina	Oina
 Olethrios	Olethrios
 Oni	Oni
 Orarukk	Orarukk
-Dworc	Orc
-Wood Elf-Orc	Orc
-Draxnor Orc	Orc
-Black Orc	Orc
-Orc (Revised)	Orc
-Orcling	Orc
-Orc!	Orc
-True Orc	Orc
-Shattered Orc	Orc
-Stone-Orc	Orc
-Quarter-Orc-half-plant	Orc
-Elf Orc	Orc
-Orc of Exandria	Orc
-Sun-Hunter Orc	Orc
-Orc'Klar	Orc
-High Dagorcian	Orc
-G'orc	Orc
-Elf-Orc	Orc
-Orc (archived)	Orc
-Orcasion 	Orc
-Half Orc Half Drow	Orc
-Orc of Eberron	Orc
 Orc	Orc
+Orc of Eberron	Orc
+Orc!	Orc
+Orc (Revised)	Orc
+Orc of Exandria	Orc
+Orc (archived)	Orc
+High Dagorcian	Orc
+Elf Orc	Orc
+Sun-Hunter Orc	Orc
+Dworc	Orc
+Half Orc Half Drow	Orc
+True Orc	Orc
+Black Orc	Orc
+G'orc	Orc
+Draxnor Orc	Orc
+Quarter-Orc-half-plant	Orc
+Shattered Orc	Orc
+Elf-Orc	Orc
+Orcling	Orc
+Wood Elf-Orc	Orc
+Orcasion 	Orc
+Stone-Orc	Orc
+Orc'Klar	Orc
 Oreinak	Oreinak
 Orinthai	Orinthai
 Ork	Ork
 Otterman	Otterman
 Ovgiin	Ovgiin
 Owlbear	Owlbear
-Ghoul Folk	Owlfolk
+Owlfolk	Owlfolk
 Owlfolk (Archived)	Owlfolk
 Walrusfolk	Owlfolk
+Ghoul Folk	Owlfolk
 Owl Folk	Owlfolk
-Owlfolk	Owlfolk
 Owlin	Owlin
 Pactborn	Pactborn
 Panda	Panda
@@ -783,8 +784,8 @@ Pelanan	Pelanan
 Persona (gem)	Persona (Gem)
 Phasm	Phasm
 Piney	Piney
-Pixie	Pixie
 Pixie 	Pixie
+Pixie	Pixie
 Plasmoid	Plasmoid
 Platyperson	Platyperson
 Plesiosaurus	Plesiosaurus
@@ -802,13 +803,13 @@ Quaggoth	Quaggoth
 Quetzalin	Quetzalin
 Qunari	Qunari
 Quorrl	Quorrl
-Rabbitfolk	Rabbitfolk
-Rabbit	Rabbitfolk
 Ratfolk	Rabbitfolk
-RabbitFolk	Rabbitfolk
-Rabbitfolk (Archived)	Rabbitfolk
-Ratfolk 	Rabbitfolk
 Catfolk	Rabbitfolk
+Ratfolk 	Rabbitfolk
+Rabbitfolk	Rabbitfolk
+Rabbitfolk (Archived)	Rabbitfolk
+Rabbit	Rabbitfolk
+RabbitFolk	Rabbitfolk
 Rabbit Folk	Rabbitfolk
 Raccobold	Raccobold
 Raccobolds	Raccobolds
@@ -830,15 +831,15 @@ Red Fox	Red Fox
 Redead	Redead
 Reincarnate	Reincarnate
 Reptamun	Reptamun
+Treent	Revenant
+Treeant	Revenant
+Human Revenant	Revenant
 Treant	Revenant
 Revenant (Human)	Revenant
-Treent	Revenant
 Revenant	Revenant
 Revenant - Human Variant CoS Kampanjebase	Revenant
-Human Revenant	Revenant
-Treant 	Revenant
 Revenant Human	Revenant
-Treeant	Revenant
+Treant 	Revenant
 Revisitor	Revisitor
 Roegadyn	Roegadyn
 Rougarou	Rougarou
@@ -848,8 +849,8 @@ Saiyan	Saiyan
 Sakaaran	Sakaaran
 Sasember	Sasember
 Sasquatch	Sasquatch
-Saltar	Satyr
 Satyr	Satyr
+Saltar	Satyr
 Reincarnated Kildrake Satyr	Satyr
 Scarecrow	Scarecrow
 Sciurian	Sciurian
@@ -861,22 +862,22 @@ Selkie	Selkie
 Sentient Phase Spider	Sentient Phase Spider
 Serpent-Folk	Serpent-Folk
 Shad	Shad
-Shadar-kai	Shadar-Kai
-Shadar Kai	Shadar-Kai
 Szarkai	Shadar-Kai
 Shadar-Kai	Shadar-Kai
+Shadar Kai	Shadar-Kai
+Shadar-kai	Shadar-Kai
 Shade	Shade
 Shadow Born	Shadow Born
 Shardmind	Shardmind
 Sharkfolk	Sharkfolk
 She-wolf	She-Wolf
 Sheikah	Sheikah
-Shapeshifter	Shifter
 shifter	Shifter
-Shifter	Shifter
+Shifter (UA)	Shifter
 Cerberus Shifter	Shifter
 Shifter (Beasthide)	Shifter
-Shifter (UA)	Shifter
+Shapeshifter	Shifter
+Shifter	Shifter
 Shin'en Kai	Shin'En Kai
 Shindarri Lieutenant	Shindarri Lieutenant
 Shroomborn	Shroomborn
@@ -911,8 +912,8 @@ Stonefolk 	Stonefolk
 Stormfolk	Stormfolk
 Strix (Grimfrost Campaign)	Strix (Grimfrost Campaign)
 Subrosian	Subrosian
-Succubus	Succubus
 succubus	Succubus
+Succubus	Succubus
 Succubus/Incubus	Succubus/Incubus
 Sudalix	Sudalix
 Supial	Supial
@@ -921,15 +922,15 @@ Svensali	Svensali
 Sylvari	Sylvari
 Symian	Symian
 tab	Tab
-Tobaxi	Tabaxi
- tabaxi	Tabaxi
-Tabaxi/ Snow Leopard Varient	Tabaxi
-Tabaxi	Tabaxi
-Half-Tabaxi	Tabaxi
 Tabaxi-1	Tabaxi
-tabaxi	Tabaxi
-COPY_OF_Tabaxi	Tabaxi
 Tabaxi (CR)	Tabaxi
+COPY_OF_Tabaxi	Tabaxi
+tabaxi	Tabaxi
+Half-Tabaxi	Tabaxi
+Tobaxi	Tabaxi
+Tabaxi	Tabaxi
+Tabaxi/ Snow Leopard Varient	Tabaxi
+ tabaxi	Tabaxi
 Tall	Tall
 Talpid	Talpid
 Tanarukk	Tanarukk
@@ -966,10 +967,10 @@ Tiefling Abyssal Varient	Tiefling
 Nephilim (Aasimar-Tiefling)	Tiefling
 Winged Tiefling	Tiefling
 Feytouched Tiefling	Tiefling
-Gnome-Tiefling	Tiefling
+Half Tiefling	Tiefling
 Tiefling with Fierna blood	Tiefling
 Abyssal Tiefling	Tiefling
-Half Tiefling	Tiefling
+Gnome-Tiefling	Tiefling
 Iceblood Tiefling	Tiefling
 Tiefling of the Sun	Tiefling
 Tiefling Feral	Tiefling
@@ -1102,8 +1103,8 @@ Serpentine Yuan-Ti	Yuan-Ti
 Yuan-Ti Malison	Yuan-Ti
 Yuan Ti Pureblood	Yuan-ti Pureblood
 Yuan-ti Pureblood (revised)	Yuan-ti Pureblood
-Yuan-Ti Pureblood	Yuan-ti Pureblood
 Yuan-ti Pureblood	Yuan-ti Pureblood
+Yuan-Ti Pureblood	Yuan-ti Pureblood
 Variant Human To Yuan-ti Pureblood	Yuan-ti Pureblood
 yuanti malison	Yuanti Malison
 Yuki-otoko	Yuki-Otoko
