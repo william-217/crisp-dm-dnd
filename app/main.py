@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 if __name__ == "__main__":
 
     # 1. Importar dataset (DataLoader)
-    loader = DataLoader(base_folder="data/cleaned_datasets")
+    loader = DataLoader(base_folder="data/cleaned_datasets_repeated_entries")
 
     # Escolher subpasta primeiro
     folder = loader.choose_subfolder()
