@@ -20,9 +20,9 @@ class DataLoader:
         """Permite ao utilizador escolher uma das subpastas"""
         subfolders = self.list_subfolders()
         if not subfolders:
-            print("Nenhuma subpasta encontrada.")
+            print("\nNenhuma subpasta encontrada.")
             return None
-        print("Subpastas disponíveis:")
+        print("\nSubpastas disponíveis:")
         for i, name in enumerate(subfolders, 1):
             print(f"{i}: {name}")
         while True:
@@ -52,7 +52,7 @@ class DataLoader:
         if not files:
             print("Nenhum ficheiro CSV encontrado.")
             return None
-        print("Ficheiros disponíveis:")
+        print("\nFicheiros disponíveis:")
         for i, fname in enumerate(files, 1):
             print(f"{i}: {fname}")
         while True:
@@ -74,3 +74,13 @@ class DataLoader:
         except Exception as e:
             print(f"Erro ao carregar ficheiro: {e}")
             return None
+
+    def get_file_and_folder_names(self, file_path, folder_path):
+        """Obtém o nome do file e da subpasta sem .csv"""
+        try:
+            nome_ficheiro = os.path.splitext(os.path.basename(file_path))[0]  # sem .csv
+            nome_subpasta = os.path.basename(folder_path)
+            return nome_ficheiro, nome_subpasta
+        except Exception as e:
+            print(f"Erro ao obter nomes: {e}")
+            return None, None

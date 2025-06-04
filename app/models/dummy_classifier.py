@@ -4,20 +4,38 @@ from sklearn.metrics import accuracy_score, classification_report
 import pandas as pd
 
 class DummyModel(BaseModel):
-    def __init__(self, **kwargs):
+    DEFAULT_PARAMS = {
+        "strategy": "most_frequent"
+    }
+
+    def __init__(self, **params):
         super().__init__()
-        self.model = DummyClassifier(**kwargs)
+        self.params = self.DEFAULT_PARAMS.copy()
+        self.params.update(params)
+        self.model = DummyClassifier(**self.params)
 
     def train(self, X_train, y_train):
         self.model.fit(X_train, y_train)
 
-    def evaluate(self, X_test, y_test):
-        y_pred = self.model.predict(X_test)
-        print("Accuracy:", accuracy_score(y_test, y_pred))
-        print(classification_report(y_test, y_pred))
-        # Mostra a matriz de confusão para as 10 classes mais comuns
-        labels = list(pd.Series(y_test).value_counts().index[:10])
-        print(f"Mostrando matriz de confusão para as 10 classes mais comuns: {labels}")
-        self.plot_confusion(y_test, y_pred, labels=labels)
-    
-    
+    def predict(self, X_test):
+        return self.model.predict(X_test)
+
+    def set_params(self, **params):
+        self.params.update(params)
+        self.model = DummyClassifier(**self.params)
+
+    @staticmethod
+    def ask_params():
+        print("\n--- Parâmetros do DummyClassifier ---")
+        params = {}
+        strategy_in = input("strategy (most_frequent/stratified/uniform/constant, default stratified): ").strip().lower()
+        if strategy_in in ["most_frequent", "stratified", "uniform", "constant"]:
+            params["strategy"] = strategy_in
+        else:
+            params["strategy"] = "stratified"
+        return params
+
+
+
+
+

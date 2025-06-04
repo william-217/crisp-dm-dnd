@@ -22,14 +22,19 @@ class DataPreparation:
 
     def choose_split(self):
         while True:
+            print("\nIndique a percentagem dos dados para TESTE.")
+            print("Exemplo: 0.2 para 20% dos dados de teste.")
+            resp = input("Pressione ENTER para usar o valor predefinido (0.2): ").strip()
+            if resp == "":
+                return 0.2  # valor predefinido
             try:
-                test_size = float(input("Percentagem para teste (ex: 0.2 para 20%): "))
+                test_size = float(resp)
                 if 0 < test_size < 1:
                     return test_size
                 else:
-                    print("Introduza um valor entre 0 e 1.")
+                    print("Por favor, introduza um valor entre 0 e 1 (ex: 0.2 para 20%).")
             except ValueError:
-                print("Por favor, introduza um número válido.")
+                print("Valor inválido. Introduza um número entre 0 e 1 ou ENTER para 0.2.")
 
     def choose_columns_to_remove(self):
         print("\nColunas disponíveis para remoção (IDs, nomes, etc):")
@@ -100,4 +105,4 @@ class DataPreparation:
                 break
             else:
                 print("Opção inválida.")
-    
+
