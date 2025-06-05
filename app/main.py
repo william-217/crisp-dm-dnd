@@ -46,7 +46,7 @@ if __name__ == "__main__":
     if not filename:
         exit()
     
-    # Guardar o nome do ficheiro e subpasta para confusion matix e feature importance
+    # Guardar o nome do ficheiro e subpasta para confusion matrix e feature importance
     nome_ficheiro = os.path.splitext(os.path.basename(filename))[0]
     nome_subpasta = os.path.basename(folder)
 
@@ -147,7 +147,7 @@ if __name__ == "__main__":
                     model.plot_feature_importance(X_train.columns)
                 # Se for DecisionTree, mostrar a árvore:
                 if hasattr(model, "plot_tree_diagram"):
-                    model.plot_tree_diagram(X_train.columns)
+                    model.plot_tree_diagram(list(X_train.columns))
             elif op == "0":
                 break
             else:
